@@ -1,0 +1,62 @@
+# linear theory correlation function and pairwise velocity field
+
+import numpy
+from scipy.interpolate import interp1d
+from scipy.integrate import quad
+
+# cosmological parameters
+ns=0.96
+sig8=0.8
+h=0.72
+om_v0=0.70
+om_m0=0.30
+om_b0=0.044
+Y=0.25
+
+# redshift of interest
+z=0.55
+
+execfile('cosmo_toolkits.py')
+execfile('lin_powspec.py')
+
+k_CLPT,P_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/PL_z0.55.dat',unpack=True )
+k_grafic,Delta2_grafic=genfromtxt('power.dat',unpack=True,usecols=(0,2) )
+
+P_L=interp1d(k_CLPT,P_CLPT,kind='linear',bounds_error=False,fill_value=0.0)
+
+def Delta2_L(k):
+    P_L=interp1d(k_CLPT,P_CLPT,kind='linear',bounds_error=False,fill_value=0.0)
+    Delta2_L=k**3*P_L(k)/(2.*pi**2)
+    return Delta2_L
+
+
+kmin=1.0e-4                    # minimum k [h/Mpc]
+kmax=1.0e2                    # maximum k [h/Mpc]
+def v12_linear(r,z):
+    from scipy.integrate import quadrature,quad,romberg,fixed_quad
+    #integrand=lambda lnk : P_linear(exp(lnk),z)*(sin(exp(lnk)*r)-(exp(lnk)*r)*cos(exp(lnk)*r))/r/r
+    integrand=lambda lnk : P_L(exp(lnk))*(sin(exp(lnk)*r)-(exp(lnk)*r)*cos(exp(lnk)*r))/r/r
+    v12_linear=-1.0/(pi**2)*quad(integrand,log(kmin),log(kmax),limit=5000)[0]
+    #v12_linear=-1.0/(pi**2)*romberg(integrand,log(kmin),log(kmax))
+    return v12_linear
+
+# main
+Nr=50
+r_min=1.   # cMpc/h
+r_max=100.0 # cMpc/h
+r=linspace(r_min,r_max,Nr)
+
+v12=zeros([Nr])
+for i in range(Nr):
+    v12[i]=v12_linear(r[i],z)
+
+# check with Martin White's cacluation
+#r_CLPT,xi_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/xi.txt',usecols=(0,1),unpack=True )
+r_CLPT,v12_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/v12.txt',usecols=(0,1),unpack=True )
+#k_CLPT,P_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/PL_z0.55.dat',unpack=True )
+
+
+# plot two point correlation function
+figure()
+plot(r_CLPT,v12_CLPT,'r-')
+plot(r,v12,'k-')

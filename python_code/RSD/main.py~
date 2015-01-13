@@ -1,0 +1,22 @@
+# cosmological parameters
+ns=0.96
+sig8=0.8
+h=0.72
+om_v0=0.70
+om_m0=0.30
+om_b0=0.044
+Y=0.25
+
+execfile('param.py')
+execfile('lin_powspec.py')
+
+### load power spectrum
+def powspec(k,z):
+    from scipy.interpolate import interp1d
+    input_path='/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/PL_z0.55.dat'
+    k,P=genfromtxt(input_path,unpack=True )
+
+def
+    P_L=interp1d(k,P,kind='linear',bounds_error=False,fill_value=0.0)
+    powspec=P_L(k)*(growth_rate(z)/growth_rate(0.55))**2
+    return powspec

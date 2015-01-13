@@ -1,0 +1,89 @@
+# linear theory correlation function and pairwise velocity field
+
+import numpy
+from scipy.interpolate import interp1d
+from scipy.integrate import quad
+
+# cosmological parameters
+ns=0.96
+sig8=0.8
+h=0.72
+om_v0=0.70
+om_m0=0.30
+om_b0=0.044
+Y=0.25
+
+# redshift of interest
+z=4.0 #0.55
+
+execfile('cosmo_toolkits.py')
+execfile('lin_powspec.py')
+
+k_CLPT,P_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/PL_z0.55.dat',unpack=True )
+k_grafic,Delta2_grafic=genfromtxt('power.dat',unpack=True,usecols=(0,2) )
+
+def Delta2_L(k):
+    P_L=interp1d(k_CLPT,P_CLPT,kind='linear',bounds_error=False,fill_value=0.0)
+    Delta2_L=k**3*P_L(k)/(2.*pi**2)
+    return Delta2_L
+
+def Delta2g_L(k):
+    Delta2g_L=interp1d(k_grafic,Delta2_grafic,kind='linear',bounds_error=False,fill_value=0.0)
+    sigma_smooth=0.1
+    suppress=exp(-k**2*sigma_smooth**2)
+    Delta2g_L=Delta2g_L(k)*suppress*(growth_rate(z)/growth_rate(0.0))**2
+    return Delta2g_L
+
+# plot power spectrum
+kmin=1.0e-4                    # minimum k [h/Mpc]
+kmax=1.0e3                    # maximum k [h/Mpc]
+ksample=logspace(log10(kmin),log10(kmax),100)
+
+sigma_smooth=0.1
+suppress=exp(-k_grafic**2*sigma_smooth**2)
+
+figure()
+ylim(1.e-8,1e5)
+loglog(ksample,Delta2(ksample,0.0),'r-')
+loglog(k_grafic,(growth_rate(z)/growth_rate(0.0))**2*Delta2_grafic,'k--')
+loglog(k_grafic,(growth_rate(z)/growth_rate(0.0))**2*Delta2_grafic*suppress,'k-')
+loglog(k_CLPT,k_CLPT**3*P_CLPT/(2.*pi**2),'b-')
+
+
+kmin=1.0e-4                    # minimum k [h/Mpc]
+kmax=1.0e2                    # maximum k [h/Mpc]
+def corrfunc_linear(r,z):
+    from scipy.integrate import quadrature,quad,romberg
+    #integrand=lambda lnk : Delta2(exp(lnk),z)*sin(exp(lnk)*r)/(exp(lnk)*r)
+    integrand=lambda lnk : exp(lnk)**3*powspec(exp(lnk),z)/(2.*pi**2)*sin(exp(lnk)*r)/(exp(lnk)*r)
+    #integrand=lambda k : Delta2(k,z)*sin(k*r)/(k*r)*(1./k)
+    #corrfunc_linear=quadrature(integrand,log(kmin),log(kmax),maxiter=100)[0]
+    corrfunc_linear=quad(integrand,log(kmin),log(kmax),limit=5000)[0]
+    #corrfunc_linear=quad(integrand,kmin,kmax)[0]
+    return corrfunc_linear
+
+# main
+Nr=50
+r_min=1.   # cMpc/h
+r_max=100.0 # cMpc/h
+r=linspace(r_min,r_max,Nr)
+
+xi=zeros([Nr])
+for i in range(Nr):
+    xi[i]=corrfunc_linear(r[i],z)
+
+# check with Martin White's cacluation
+r_CLPT,xi_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/xi.txt',usecols=(0,1),unpack=True )
+k_CLPT,P_CLPT=genfromtxt('/home/koki/work/lyaf-survey-project/CLPT_GSRSD-master/data/PL_z0.55.dat',unpack=True )
+
+
+# plot two point correlation function
+figure()
+plot(r_CLPT,r_CLPT**2*xi_CLPT,'r-')
+plot(r,r**2*xi,'k-')
+
+
+figure()
+loglog(r_CLPT,xi_CLPT,'r-')
+loglog(r,xi,'k-')
+

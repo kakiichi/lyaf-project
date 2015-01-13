@@ -1,0 +1,8 @@
+# cosmological parameters
+ns=0.96
+sig8=0.8
+h=0.72
+om_v0=0.70
+om_m0=0.30
+om_b0=0.044
+Y=0.25
