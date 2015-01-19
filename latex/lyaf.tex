@@ -343,7 +343,13 @@ where $\Gamma(a,x)$ is the upper incomplete Gamma function.
 \begin{figure}
  \begin{center}
   \includegraphics[angle=0,width=\columnwidth]{figure/LAE_pair_counts.pdf}
-  \caption{LAE pair counts. Need to redo this. plot something like this}
+  \caption{The expected number of LAE-absorber($\NHI>10^{19}cm^{-2}$) pairs per
+QSO field as a function of flux limit. The red lines are the case with 
+galaxy-absorber clustering and black lines are for no clustering. 
+The pair for each radial bins are 10,9,8,7,6,5,4,3,2,1$h^{-1}$cMpc
+with bin size of $1h^{-1}$cMpc from top to bottom. The vertical lines
+are Magellan/IMACS like instrument (dashed) and Subaru/Supreme-Cam like 
+instrument (dotted).}\label{LAE_pair_counts}
  \end{center}
 \end{figure}
 
@@ -354,19 +360,20 @@ uncertainty in the correlation function is $\frac{\Delta \xi(r)}{1+\xi(r)}
 =1/\sqrt{N_{pair}(r)}$, which is the lower bound of more realistic error 
 (Peacock 1998). To measure the correlation function below $10\%$ error,
 more than 100 pairs per bin are required. The expected number of galaxies 
-centred at 
-each absorber ($N_{a,pair}(r)=N_{pair}(r)/\mathcal{N}$) is $N_{a,pair}(r)=N(>F_{lim})
-\int_{r-\frac{1}{2}\Delta r}^{r+\frac{1}{2}\Delta r}p(r)dr$ where $p(r)dr$ is the 
+centred at each absorber ($N_{a,pair}(r)=N_{pair}(r)/\mathcal{N}$) is 
+$N_{a,pair}(r)=\frac{4\pi R^3}{3}\int_{L_{lim}}^\infty\frac{dn}{dL}
+\int_{r-\frac{1}{2}\Delta r}^{r+\frac{1}{2}\Delta r}p(r)dr$ where $R$ is the radius
+of survey field-of-view and $p(r)dr$ is the 
 probability that a galaxy is found in the interval $r$ and $r+dr$ around an 
 absorber. For the Poisson distribution of galaxies, 
-$p(r)dr=4\pi r^2dr/V_{survey}(\bar{z})$. If one expects some degree of clustering
+$p(r)dr=4\pi r^2dr/((4\pi/3)R^3)$. If one expects some degree of clustering
 around an absorber, the probability is modifed as 
-$p(r)dr=4\pi r^2(1+\xi^{expt}(r) dr/V_{survey}(\bar{z})$ where $\xi^{expt}_{ag}(r)$ 
+$p(r)dr=4\pi r^2[1+\xi^{expt}(r)] dr/[(4\pi/3)R^3]$ where $\xi^{expt}_{ag}(r)$ 
 is the expected absorber-galaxy correlation function.
 Thus, the total number of galaxy-absorber pairs for each bin $\Delta r$ for
 each QSO field is given by $N_{pair}(r)=\mathcal{N}N_{a,pair}$,
 \begin{equation}
-N_{pair}(r)=\mathcal{N}\frac{N(>F_{lim})}{V_{survey}(\bar{z})}
+N_{pair}(r)=\mathcal{N}\int_{L_{lim}}^\infty\frac{dn}{dL}dL
 \int_{r-\frac{1}{2}\Delta r}^{r+\frac{1}{2}\Delta r}
 4\pi r^2\left(1+\xi^{expt}_{ag}(r)\right)dr.
 \end{equation}
@@ -379,12 +386,24 @@ The expected number of absorbers for each QSO spectrum is
 \mathcal{N}(\NHI)=\int_{z_1}^{z_2}dz\int_{\NHI^{min}}^{\NHI^{max}}d\NHI 
 \frac{d^2\mathcal{N}}{d\NHI dz}
 \end{equation}
-(\textbf{Npair vs r for each $F_{lim}$ case for Poisson and linear theory
-expectation}).
 
+Fig.$\ref{LAE_pair_counts}$ shows that expected galaxy-absorber pair
+counts. We have assumed the fixed power-law correlaction function
+$\xi(r)=(r/r_0)^{-1.74}$ (Cooke+2003) and the CDDF (O'Meara+2012).
 
+\subsection{Survey strategy}
+Fig.$\ref{LAE_pair_counts}$ guides us the first estimate of the survey
+strategy to measure the correlation function between galaxy and absorber.
+If we employ the present Magellan/IMACS like intrument, it is feasible
+to measure the correlation function with $\sim10-30\%$ Poisson error by
+observing the multiple QSO fields (ca. $\sim 10$ QSO fields) as we expect
+to see $10-100$ pairs per radial bin.
+The single deep QSO field of futuristic flux limit $10^{19}erg/s/cm^2$
+can give the similar Poisson error.
 
-Number of QSO fields needed.
+In the following treatment, we construct the mock survey to study the 
+survey strategy and the feasiblity in more detail.
+
 
 \section{Theory: overview}
 Our goal is to connect the statistical formulations of the redshift-space 
@@ -424,7 +443,7 @@ distortion consistent with coherent cosmological inflow for LBG samples.
 
 The mapping between redshift space and real space is
 \begin{equation}
-s_\perp=r_\perp,~~s_\parallel=r_\parallel-v_{12,\parallel}/H,
+s_\perp=r_\perp,~~s_\parallel=r_\parallel+v_{12,\parallel}/H,
 \end{equation}
 The redshift-space correlation function $\xi_s(s_\parallel,s_\perp)$ can be 
 modelled by the integration of real-space correlation function $\xi(r)$
@@ -432,7 +451,7 @@ with the pairwise velocity distribution function $f(v_{12,\parallel}|r)$ along a
 line-of-sight (Peeble 1980; Reid\&White (2006?); Fisher 1994-6?),
 \begin{equation}
 1+\xi_s(s_\parallel,s_\perp)=\int dv_{12,\parallel}f(v_{12,\parallel}|r)
-\left[1+\xi(\sqrt{s_\perp^2+(s_\parallel+v_{12,\parallel}/H)^2})\right]
+\left[1+\xi(\sqrt{s_\perp^2+(s_\parallel-v_{12,\parallel}/H)^2})\right]
 \end{equation}
 This is often referred to as streaming model (Peebles 1980; Jing+).
 
@@ -640,6 +659,12 @@ velocity field as (Davis\&Peebles 1977; Cooray \& Sheth 2002; White)
 \end{equation}
 
 
+\begin{figure*}
+ \begin{center}
+  \includegraphics[angle=-90,width=\textwidth]{figure/RSDs.pdf}
+  \caption{RSD example}
+ \end{center}
+\end{figure*}
 
 
 

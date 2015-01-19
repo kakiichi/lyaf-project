@@ -1,24 +1,3 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{Johansson et~al.,}{Johansson
-  et~al.}{2010}]{mpmath}
-Johansson F.,  et~al., 2010, mpmath: a {P}ython library for arbitrary-precision
-  floating-point arithmetic (version 0.14)
-
-\bibitem[\protect\citeauthoryear{{Rauch}}{{Rauch}}{1998}]{1998ARA&A..36..267R}
-{Rauch} M.,  1998, \araa, 36, 267
-
-\bibitem[\protect\citeauthoryear{{Rudie}, {Steidel}, {Trainor}, {Rakic},
-  {Bogosavljevi{\'c}}, {Pettini}, {Reddy}, {Shapley}, {Erb} \& {Law}}{{Rudie}
-  et~al.}{2012}]{2012ApJ...750...67R}
-{Rudie} G.~C.,  {Steidel} C.~C.,  {Trainor} R.~F.,  {Rakic} O.,
-  {Bogosavljevi{\'c}} M.,  {Pettini} M.,  {Reddy} N.,  {Shapley} A.~E.,  {Erb}
-  D.~K.,    {Law} D.~R.,  2012, \apj, 750, 67
-
-\bibitem[\protect\citeauthoryear{{Steidel}, {Erb}, {Shapley}, {Pettini},
-  {Reddy}, {Bogosavljevi{\'c}}, {Rudie} \& {Rakic}}{{Steidel}
-  et~al.}{2010}]{2010ApJ...717..289S}
-{Steidel} C.~C.,  {Erb} D.~K.,  {Shapley} A.~E.,  {Pettini} M.,  {Reddy} N.,
-  {Bogosavljevi{\'c}} M.,  {Rudie} G.~C.,    {Rakic} O.,  2010, \apj, 717, 289
-
 \end{thebibliography}
