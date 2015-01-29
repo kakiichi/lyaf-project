@@ -1,6 +1,6 @@
 program RSD
   implicit none
-  integer, parameter :: N=500
+  integer, parameter :: N=200+1
   real*8, parameter :: s_min=-8.d0, s_max=+8.d0 ! cMpc/h
   real*8, parameter :: r_max=+8.d0              ! cMpc/h
   integer :: i,j
@@ -25,7 +25,9 @@ program RSD
 
         s_perp=s_min+i*ds
         s_para=s_min+j*ds
-        r=sqrt(s_perp**2+s_para**2)
+        if (abs(s_perp) <= 1.e-3) then
+           print*, 'division by almost zero will happen'
+        end if
         write(10,*) s_perp, s_para, xi_s(s_perp,s_para)
 
      enddo
@@ -69,8 +71,10 @@ function intg(y)
 
   r=sqrt(s1**2+y**2)
   mu=y/r
+  ! gaussian streaming model
   f_v12=1.d0/(dsqrt(2.d0*pi)*s12(r)/Hubble) * &
-        exp( -(s2-y-mu*v12(r)/Hubble)**2/(2.d0*(s12(r)/Hubble)**2) )       
+        exp( -(s2-y-mu*v12(r)/Hubble)**2/(2.d0*(s12(r)/Hubble)**2) )      
+  ! exponential streaming model
   !f_v12=1.d0/(dsqrt(2.d0)*s12(r)/Hubble) * &
   !      exp( -sqrt(2.0)*abs(s2-y-mu*v12(r)/Hubble)/(s12(r)/Hubble) )       
   intg=(1.d0+xi(r))*f_v12
@@ -82,11 +86,12 @@ end function intg
 function xi(r) 
   implicit none
   real*8 :: xi,r
-  real*8, parameter :: rc=0.1d0 
-  real*8, parameter :: r0=3.d0 ! cMpc/h
+  real*8, parameter :: rc=0.5d0 
+  real*8, parameter :: r0=3.32d0 ! cMpc/h
   real*8, parameter :: slope=1.74d0
 
-  xi=(r/r0)**(-slope) * ( 1.d0-exp(-(r/rc)**2) )
+  xi=(r/r0)**(-slope) !* ( 1.d0-exp(-(r/rc)**2) )
+  !if (r<=rc) xi=(rc/r0)**(-slope)
 
   return
 end function xi
@@ -95,10 +100,13 @@ end function xi
 function v12(r)
   implicit none
   real*8 :: v12,r
-  real*8, parameter :: v0=400.d0 ! km/s
-  real*8, parameter :: r0=3.d0 ! cMpc/h
+  real*8, parameter :: v_outflow=400.d0 ! km/s   outflow velocity
+  real*8, parameter :: r_outflow=1.d0 ! cMpc/h
+  real*8, parameter :: v0=400.d0 ! km/s inflow velocity
+  real*8, parameter :: r0=3.32d0 ! cMpc/h
   real*8, parameter :: slope=1.74d0
   v12=-v0/(1.d0+(r/r0)**slope)
+  !v12=v_outflow*2.d0*exp(-r/r_outflow)-v0/(1.d0+(r/r0)**slope)
   return
 end function v12
 
@@ -106,7 +114,7 @@ end function v12
 function s12(r)
   implicit none
   real*8 :: s12,r
-  real*8, parameter :: s12_0=300.d0 ! km/s
+  real*8, parameter :: s12_0=200.d0 ! km/s
   s12=s12_0
   return
 end function s12
