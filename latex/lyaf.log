@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.22)  19 JAN 2015 16:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.22)  14 FEB 2015 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,7 +359,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 \@ctbloldrule=\dimen166
 \ctbl@t=\box35
 \@ctblcurftwidth=\dimen167
-) (./lyaf.aux)
+) (./lyaf.aux
+
+LaTeX Warning: Label `EoR_xi' multiply defined.
+
+
+LaTeX Warning: Label `table:telescope' multiply defined.
+
+)
 \openout1 = `lyaf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -374,8 +381,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
 \scratchdimen=\dimen168
@@ -448,263 +454,453 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
-Missing character: There is no â in font cmr8!
-Missing character: There is no ˆ in font cmr8!
-Missing character: There is no ’ in font cmr8!
 
+LaTeX Warning: Reference `firstpage' on page 1 undefined on input line 156.
 
-Package natbib Warning: Citation `1998ARA&A..36..267R' on page 1 undefined on i
-nput line 205.
-
-
-Package natbib Warning: Citation `2012ApJ...750...67R' on page 1 undefined on i
-nput line 206.
-
-
-Package natbib Warning: Citation `1998ARA&A..36..267R' on page 1 undefined on i
-nput line 215.
-
-
-LaTeX Warning: Reference `firstpage' on page 1 undefined on input line 219.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 219.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 219.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 156.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-<figure/region_of_influence.pdf, id=24, 478.78876pt x 247.52475pt>
-File: figure/region_of_influence.pdf Graphic file (type pdf)
-
-<use figure/region_of_influence.pdf>
-Package pdftex.def Info: figure/region_of_influence.pdf used on input line 270.
-
-(pdftex.def)             Requested size: 478.78758pt x 247.52414pt.
-
-
-Package natbib Warning: Citation `2010ApJ...717..289S' on page 2 undefined on i
-nput line 283.
-
-
-Underfull \vbox (badness 3302) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `firstpage' on page 2 undefined on input line 296.
-
-[2 <./figure/region_of_influence.pdf>]
-Overfull \hbox (9.25668pt too wide) detected at line 301
-\OML/cmm/m/it/9 N\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 > F[]\OT1/cmr/m/n/9 ) = 
-[] [][] \OML/cmm/m/it/9 dz[] [][] []dL
+Underfull \hbox (badness 1337) in paragraph at lines 208--221
+[]\OT1/cmr/m/n/9 Using the stel-lar pop-u-la-tion syn-the-sis re-sult from
  []
 
 
-Overfull \hbox (20.3058pt too wide) detected at line 311
-\OML/cmm/m/it/9 N\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 > F[]\OT1/cmr/m/n/9 ) \OMS/cms
-y/m/n/9 ^^Y \OT1/cmr/m/n/9 
-[] [][] []\OML/cmm/m/it/9 ^^^[]\OT1/cmr/m/n/9 ^^@ []
- []
-
-<figure/LAE_number_counts.pdf, id=82, 478.78876pt x 659.46375pt>
-File: figure/LAE_number_counts.pdf Graphic file (type pdf)
-
-<use figure/LAE_number_counts.pdf>
-Package pdftex.def Info: figure/LAE_number_counts.pdf used on input line 317.
-(pdftex.def)             Requested size: 478.78758pt x 659.46213pt.
-
-Underfull \hbox (badness 1924) in paragraph at lines 325--325
-\OT1/cmr/m/n/8 Cam (dot-ted; Ouchi+2008) and Mag-el-lan/I-MACS (dashed;
- []
-
-<figure/LBG_number_counts.pdf, id=83, 478.78876pt x 646.81653pt>
-File: figure/LBG_number_counts.pdf Graphic file (type pdf)
-
-<use figure/LBG_number_counts.pdf>
-Package pdftex.def Info: figure/LBG_number_counts.pdf used on input line 331.
-(pdftex.def)             Requested size: 478.78758pt x 646.81494pt.
-
-<figure/LAE_pair_counts.pdf, id=84, 514.92375pt x 659.46375pt>
-File: figure/LAE_pair_counts.pdf Graphic file (type pdf)
-
-<use figure/LAE_pair_counts.pdf>
-Package pdftex.def Info: figure/LAE_pair_counts.pdf used on input line 345.
-(pdftex.def)             Requested size: 514.92249pt x 659.46213pt.
-
-Underfull \hbox (badness 1275) in paragraph at lines 352--352
-[]\OT1/cmr/bx/n/8 Figure 4. \OT1/cmr/m/n/8 The ex-pected num-ber of LAE-absorbe
-r($\OML/cmm/m/it/8 N[] >
+Underfull \hbox (badness 1852) in paragraph at lines 234--238
+\OT1/cmr/m/n/9 Then, $^^@[] = ^^@[](\OML/cmm/m/it/9 r=r[]\OT1/cmr/m/n/9 )[]$. T
+he com-bi-na-tion of
  []
 
 
-Underfull \vbox (badness 3724) has occurred while \output is active []
+LaTeX Warning: Reference `firstpage' on page 2 undefined on input line 294.
 
+[2] <figure/corrfunc.pdf, id=33, 587.19376pt x 442.65375pt>
+File: figure/corrfunc.pdf Graphic file (type pdf)
 
-
-LaTeX Warning: Reference `firstpage' on page 3 undefined on input line 388.
-
-[3 <./figure/LAE_number_counts.pdf>]
-
-LaTeX Warning: Reference `firstpage' on page 4 undefined on input line 433.
-
-[4 <./figure/LBG_number_counts.pdf> <./figure/LAE_pair_counts.pdf
-
-pdfTeX warning: pdflatex (file ./figure/LAE_pair_counts.pdf): PDF inclusion: mu
-ltiple pdfs with page group included in a single page
->]
-Overfull \hbox (27.6236pt too wide) detected at line 455
-\OT1/cmr/m/n/9 1 + \OML/cmm/m/it/9 ^^X[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 s[]; s[
-]\OT1/cmr/m/n/9 ) = [] \OML/cmm/m/it/9 dv[]f\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 v[]
-\OMS/cmsy/m/n/9 j\OML/cmm/m/it/9 r\OT1/cmr/m/n/9 ) []
- []
-
-<figure/2PCF.pdf, id=344, 587.19376pt x 442.65375pt>
-File: figure/2PCF.pdf Graphic file (type pdf)
- <use figure/2PCF.pdf>
-Package pdftex.def Info: figure/2PCF.pdf used on input line 530.
+<use figure/corrfunc.pdf>
+Package pdftex.def Info: figure/corrfunc.pdf used on input line 297.
 (pdftex.def)             Requested size: 587.19232pt x 442.65265pt.
 
+<figure/xi_example_EoR.pdf, id=34, 505.89pt x 722.7pt>
+File: figure/xi_example_EoR.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `firstpage' on page 5 undefined on input line 551.
+<use figure/xi_example_EoR.pdf>
+Package pdftex.def Info: figure/xi_example_EoR.pdf used on input line 342.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
 
-[5 <./figure/2PCF.pdf>]
-Overfull \hbox (15.67342pt too wide) detected at line 584
+Underfull \hbox (badness 1590) in paragraph at lines 357--363
+\OT1/cmr/m/n/9 The con-di-tional pair-wise ve-loc-ity dis-tri-bu-tion func-tion
+
+ []
+
+
+LaTeX Warning: Reference `firstpage' on page 3 undefined on input line 408.
+
+[3 <./figure/corrfunc.pdf> <./figure/xi_example_EoR.pdf>]
+<figure/s12_L40P256G256R0_Gamma12_SST.pdf, id=108, 442.65375pt x 442.65375pt>
+File: figure/s12_L40P256G256R0_Gamma12_SST.pdf Graphic file (type pdf)
+
+<use figure/s12_L40P256G256R0_Gamma12_SST.pdf>
+Package pdftex.def Info: figure/s12_L40P256G256R0_Gamma12_SST.pdf used on input
+ line 438.
+(pdftex.def)             Requested size: 442.65265pt x 442.65265pt.
+
+
+LaTeX Warning: Reference `firstpage' on page 4 undefined on input line 510.
+
+[4 <./figure/s12_L40P256G256R0_Gamma12_SST.pdf>]
+Overfull \hbox (15.67342pt too wide) detected at line 592
 \OT1/cmr/m/n/9 1 + \OML/cmm/m/it/9 ^^X[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 s[]; s[
 ]\OT1/cmr/m/n/9 ) = [] \OML/cmm/m/it/9 dr[] [] ^^N[] []
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 584--591
+Underfull \hbox (badness 1264) in paragraph at lines 592--599
 \OT1/cmr/m/n/9 where $\OML/cmm/m/it/9 r \OT1/cmr/m/n/9 = []$ and $\OML/cmm/m/it
 /9 ^^V \OT1/cmr/m/n/9 = \OML/cmm/m/it/9 r[]=r$\OT1/cmr/m/n/9 . The redshift-
  []
 
-<figure/RSDs.pdf, id=363, 505.89pt x 722.7pt>
-File: figure/RSDs.pdf Graphic file (type pdf)
- <use figure/RSDs.pdf>
-Package pdftex.def Info: figure/RSDs.pdf used on input line 664.
-(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
 
-<figure/v12.pdf, id=364, 587.19376pt x 442.65375pt>
-File: figure/v12.pdf Graphic file (type pdf)
- <use figure/v12.pdf>
-Package pdftex.def Info: figure/v12.pdf used on input line 683.
-(pdftex.def)             Requested size: 587.19232pt x 442.65265pt.
+LaTeX Warning: Reference `firstpage' on page 5 undefined on input line 639.
 
-
-LaTeX Warning: Reference `firstpage' on page 6 undefined on input line 699.
-
-[6]
-Underfull \vbox (badness 3019) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1424) in paragraph at lines 710--726
+[5]
+Underfull \hbox (badness 1424) in paragraph at lines 676--692
 \OT1/cmr/m/n/9 the IGM en-vi-ron-ment in-flu-ence the vis-i-bil-ity of $[]\OML/
 cmm/m/it/9 $\OT1/cmr/m/n/9 -
  []
 
 
-LaTeX Warning: Reference `firstpage' on page 7 undefined on input line 729.
-
-[7 <./figure/RSDs.pdf> <./figure/v12.pdf>]
-Overfull \hbox (5.35112pt too wide) in alignment at lines 766--770
+Overfull \hbox (5.35112pt too wide) in alignment at lines 732--736
 [] [] [] [] 
  []
 
 
-Overfull \hbox (8.68651pt too wide) detected at line 781
+Overfull \hbox (8.68651pt too wide) detected at line 747
 \OML/cmm/m/it/9 I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 s \OT1/cmr/m/n/9 + \OML/cmm/m/
 it/9 ds\OT1/cmr/m/n/9 ) = \OML/cmm/m/it/9 I\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 s\OT
 1/cmr/m/n/9 ) []
  []
 
 
-Overfull \hbox (17.49692pt too wide) detected at line 796
+Overfull \hbox (17.49692pt too wide) detected at line 762
 \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 v[]\OT1/cmr/m/n/9 ) = [] [] []
  [] []
  []
 
 
-Overfull \hbox (24.94688pt too wide) detected at line 810
+Overfull \hbox (24.94688pt too wide) detected at line 776
 \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 v[]\OT1/cmr/m/n/9 ) = [] [] []
  [] []
  []
 
 
-Overfull \hbox (24.94688pt too wide) detected at line 823
+Overfull \hbox (24.94688pt too wide) detected at line 789
 \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 v[]\OT1/cmr/m/n/9 ) = [] [] []
  [] []
  []
 
 
-Overfull \hbox (7.14702pt too wide) in paragraph at lines 867--885
+LaTeX Warning: Reference `firstpage' on page 6 undefined on input line 798.
+
+[6] <figure/v12_distribution.pdf, id=183, 794.97pt x 735.34723pt>
+File: figure/v12_distribution.pdf Graphic file (type pdf)
+
+<use figure/v12_distribution.pdf>
+Package pdftex.def Info: figure/v12_distribution.pdf used on input line 809.
+(pdftex.def)             Requested size: 794.96806pt x 735.34543pt.
+
+<figure/test_eff_optdpt.pdf, id=184, 587.19376pt x 442.65375pt>
+File: figure/test_eff_optdpt.pdf Graphic file (type pdf)
+
+<use figure/test_eff_optdpt.pdf>
+Package pdftex.def Info: figure/test_eff_optdpt.pdf used on input line 817.
+(pdftex.def)             Requested size: 587.19232pt x 442.65265pt.
+
+<figure/test_lya_profile.pdf, id=185, 587.19376pt x 442.65375pt>
+File: figure/test_lya_profile.pdf Graphic file (type pdf)
+
+<use figure/test_lya_profile.pdf>
+Package pdftex.def Info: figure/test_lya_profile.pdf used on input line 818.
+(pdftex.def)             Requested size: 587.19232pt x 442.65265pt.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 860.
+
+<figure/spectral_synthesis.pdf, id=186, 1093.08376pt x 514.92375pt>
+File: figure/spectral_synthesis.pdf Graphic file (type pdf)
+
+<use figure/spectral_synthesis.pdf>
+Package pdftex.def Info: figure/spectral_synthesis.pdf used on input line 866.
+(pdftex.def)             Requested size: 1093.08109pt x 514.92249pt.
+
+<figure/spectral_synthesis_3500-5000.pdf, id=187, 1093.08376pt x 514.92375pt>
+File: figure/spectral_synthesis_3500-5000.pdf Graphic file (type pdf)
+
+<use figure/spectral_synthesis_3500-5000.pdf>
+Package pdftex.def Info: figure/spectral_synthesis_3500-5000.pdf used on input 
+line 873.
+(pdftex.def)             Requested size: 1093.08109pt x 514.92249pt.
+
+Overfull \hbox (7.14702pt too wide) in paragraph at lines 887--905
  [][] 
  []
 
 
-LaTeX Warning: Reference `firstpage' on page 8 undefined on input line 904.
+LaTeX Warning: Reference `firstpage' on page 7 undefined on input line 925.
 
-[8]
+[7 <./figure/test_eff_optdpt.pdf> <./figure/test_lya_profile.pdf
 
-Package natbib Warning: Citation `mpmath' on page 9 undefined on input line 933
+pdfTeX warning: pdflatex (file ./figure/test_lya_profile.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+> <./figure/spectral_synthesis_3500-5000.pdf
+
+pdfTeX warning: pdflatex (file ./figure/spectral_synthesis_3500-5000.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 8 undefined on input line 925.
+
+[8 <./figure/v12_distribution.pdf> <./figure/spectral_synthesis.pdf
+
+pdfTeX warning: pdflatex (file ./figure/spectral_synthesis.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<figure/2PCF_L40P256G256R0_Gamma12_SST.pdf, id=418, 442.65375pt x 442.65375pt>
+File: figure/2PCF_L40P256G256R0_Gamma12_SST.pdf Graphic file (type pdf)
+
+<use figure/2PCF_L40P256G256R0_Gamma12_SST.pdf>
+Package pdftex.def Info: figure/2PCF_L40P256G256R0_Gamma12_SST.pdf used on inpu
+t line 963.
+(pdftex.def)             Requested size: 442.65265pt x 442.65265pt.
+
+<figure/v12_comparison_z3.pdf, id=419, 614.295pt x 442.65375pt>
+File: figure/v12_comparison_z3.pdf Graphic file (type pdf)
+
+<use figure/v12_comparison_z3.pdf>
+Package pdftex.def Info: figure/v12_comparison_z3.pdf used on input line 983.
+(pdftex.def)             Requested size: 614.29349pt x 442.65265pt.
+
+<figure/v12_L40P256G256R0_Gamma12_SST.pdf, id=420, 442.65375pt x 442.65375pt>
+File: figure/v12_L40P256G256R0_Gamma12_SST.pdf Graphic file (type pdf)
+
+<use figure/v12_L40P256G256R0_Gamma12_SST.pdf>
+Package pdftex.def Info: figure/v12_L40P256G256R0_Gamma12_SST.pdf used on input
+ line 993.
+(pdftex.def)             Requested size: 442.65265pt x 442.65265pt.
+
+Overfull \hbox (12.53525pt too wide) in paragraph at lines 1009--1027
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 9 undefined on input line 1036.
+
+[9 <./figure/2PCF_L40P256G256R0_Gamma12_SST.pdf> <./figure/v12_comparison_z3.pd
+f>]
+
+LaTeX Warning: Command \r invalid in math mode on input line 1040.
+
+<figure/RSDs_1-2-3.pdf, id=566, 227.85126pt x 1011.78pt>
+File: figure/RSDs_1-2-3.pdf Graphic file (type pdf)
+
+<use figure/RSDs_1-2-3.pdf>
+Package pdftex.def Info: figure/RSDs_1-2-3.pdf used on input line 1054.
+(pdftex.def)             Requested size: 227.8507pt x 1011.77753pt.
+
+<figure/RSD_moment_model1-2-3.pdf, id=567, 1093.08376pt x 442.65375pt>
+File: figure/RSD_moment_model1-2-3.pdf Graphic file (type pdf)
+
+<use figure/RSD_moment_model1-2-3.pdf>
+Package pdftex.def Info: figure/RSD_moment_model1-2-3.pdf used on input line 10
+61.
+(pdftex.def)             Requested size: 1093.08109pt x 442.65265pt.
+
+<figure/RSDs_1-4-5.pdf, id=568, 227.85126pt x 1011.78pt>
+File: figure/RSDs_1-4-5.pdf Graphic file (type pdf)
+
+<use figure/RSDs_1-4-5.pdf>
+Package pdftex.def Info: figure/RSDs_1-4-5.pdf used on input line 1091.
+(pdftex.def)             Requested size: 227.8507pt x 1011.77753pt.
+
+<figure/RSD_moment_model1-4-5.pdf, id=569, 1093.08376pt x 442.65375pt>
+File: figure/RSD_moment_model1-4-5.pdf Graphic file (type pdf)
+
+<use figure/RSD_moment_model1-4-5.pdf>
+Package pdftex.def Info: figure/RSD_moment_model1-4-5.pdf used on input line 10
+98.
+(pdftex.def)             Requested size: 1093.08109pt x 442.65265pt.
+
+<figure/RSDs_1-9-10.pdf, id=570, 227.85126pt x 1011.78pt>
+File: figure/RSDs_1-9-10.pdf Graphic file (type pdf)
+
+<use figure/RSDs_1-9-10.pdf>
+Package pdftex.def Info: figure/RSDs_1-9-10.pdf used on input line 1120.
+(pdftex.def)             Requested size: 227.8507pt x 1011.77753pt.
+
+<figure/RSD_moment_model1-9-10.pdf, id=571, 1093.08376pt x 442.65375pt>
+File: figure/RSD_moment_model1-9-10.pdf Graphic file (type pdf)
+
+<use figure/RSD_moment_model1-9-10.pdf>
+Package pdftex.def Info: figure/RSD_moment_model1-9-10.pdf used on input line 1
+127.
+(pdftex.def)             Requested size: 1093.08109pt x 442.65265pt.
+
+Underfull \vbox (badness 2205) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 10 undefined on input line 1141.
+
+[10 <./figure/v12_L40P256G256R0_Gamma12_SST.pdf>]
+<figure/RSDs_1-6-7-8.pdf, id=639, 227.85126pt x 1373.13pt>
+File: figure/RSDs_1-6-7-8.pdf Graphic file (type pdf)
+
+<use figure/RSDs_1-6-7-8.pdf>
+Package pdftex.def Info: figure/RSDs_1-6-7-8.pdf used on input line 1147.
+(pdftex.def)             Requested size: 227.8507pt x 1373.12666pt.
+
+<figure/RSD_moment_model1-6-7-8.pdf, id=640, 1093.08376pt x 442.65375pt>
+File: figure/RSD_moment_model1-6-7-8.pdf Graphic file (type pdf)
+
+<use figure/RSD_moment_model1-6-7-8.pdf>
+Package pdftex.def Info: figure/RSD_moment_model1-6-7-8.pdf used on input line 
+1154.
+(pdftex.def)             Requested size: 1093.08109pt x 442.65265pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 11 undefined on input line 1193.
+
+[11 <./figure/RSDs_1-2-3.pdf> <./figure/RSD_moment_model1-2-3.pdf>]
+
+LaTeX Warning: Reference `firstpage' on page 12 undefined on input line 1245.
+
+[12 <./figure/RSDs_1-4-5.pdf> <./figure/RSD_moment_model1-4-5.pdf>]
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+
+
+Package natbib Warning: Citation `1998ARA&A..36..267R' on page 13 undefined on 
+input line 1354.
+
+
+Package natbib Warning: Citation `2012ApJ...750...67R' on page 13 undefined on 
+input line 1355.
+
+
+LaTeX Warning: Reference `firstpage' on page 13 undefined on input line 1360.
+
+[13 <./figure/RSDs_1-9-10.pdf> <./figure/RSD_moment_model1-9-10.pdf>]
+
+Package natbib Warning: Citation `1998ARA&A..36..267R' on page 14 undefined on 
+input line 1364.
+
+<figure/region_of_influence.pdf, id=852, 478.78876pt x 247.52475pt>
+File: figure/region_of_influence.pdf Graphic file (type pdf)
+
+<use figure/region_of_influence.pdf>
+Package pdftex.def Info: figure/region_of_influence.pdf used on input line 1440
 .
+(pdftex.def)             Requested size: 478.78758pt x 247.52414pt.
 
-(./lyaf.bbl
 
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
+Package natbib Warning: Citation `2010ApJ...717..289S' on page 14 undefined on 
+input line 1453.
 
-)
-Overfull \hbox (5.72122pt too wide) detected at line 956
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 14 undefined on input line 1466.
+
+[14 <./figure/RSDs_1-6-7-8.pdf> <./figure/RSD_moment_model1-6-7-8.pdf>]
+Overfull \hbox (9.25668pt too wide) detected at line 1471
+\OML/cmm/m/it/9 N\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 > F[]\OT1/cmr/m/n/9 ) = 
+[] [][] \OML/cmm/m/it/9 dz[] [][] []dL
+ []
+
+
+Overfull \hbox (20.3058pt too wide) detected at line 1481
+\OML/cmm/m/it/9 N\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 > F[]\OT1/cmr/m/n/9 ) \OMS/cms
+y/m/n/9 ^^Y \OT1/cmr/m/n/9 
+[] [][] []\OML/cmm/m/it/9 ^^^[]\OT1/cmr/m/n/9 ^^@ []
+ []
+
+
+Underfull \vbox (badness 4518) has occurred while \output is active []
+
+
+<figure/LAE_number_counts.pdf, id=927, 478.78876pt x 659.46375pt>
+File: figure/LAE_number_counts.pdf Graphic file (type pdf)
+
+<use figure/LAE_number_counts.pdf>
+Package pdftex.def Info: figure/LAE_number_counts.pdf used on input line 1487.
+(pdftex.def)             Requested size: 478.78758pt x 659.46213pt.
+
+Underfull \hbox (badness 1924) in paragraph at lines 1495--1495
+\OT1/cmr/m/n/8 Cam (dot-ted; Ouchi+2008) and Mag-el-lan/I-MACS (dashed;
+ []
+
+<figure/LBG_number_counts.pdf, id=928, 478.78876pt x 646.81653pt>
+File: figure/LBG_number_counts.pdf Graphic file (type pdf)
+
+<use figure/LBG_number_counts.pdf>
+Package pdftex.def Info: figure/LBG_number_counts.pdf used on input line 1501.
+(pdftex.def)             Requested size: 478.78758pt x 646.81494pt.
+
+<figure/LAE_pair_counts.pdf, id=929, 514.92375pt x 659.46375pt>
+File: figure/LAE_pair_counts.pdf Graphic file (type pdf)
+
+<use figure/LAE_pair_counts.pdf>
+Package pdftex.def Info: figure/LAE_pair_counts.pdf used on input line 1515.
+(pdftex.def)             Requested size: 514.92249pt x 659.46213pt.
+
+
+LaTeX Warning: Reference `firstpage' on page 15 undefined on input line 1558.
+
+[15 <./figure/region_of_influence.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `firstpage' on page 16 undefined on input line 1585.
+
+[16 <./figure/LAE_number_counts.pdf>]
+
+LaTeX Warning: Reference `firstpage' on page 17 undefined on input line 1630.
+
+[17 <./figure/LBG_number_counts.pdf> <./figure/LAE_pair_counts.pdf
+
+pdfTeX warning: pdflatex (file ./figure/LAE_pair_counts.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>]
+
+Package natbib Warning: Citation `mpmath' on page 18 undefined on input line 16
+36.
+
+(./lyaf.bbl)
+Overfull \hbox (5.72122pt too wide) detected at line 1679
 [][] \OT1/cmr/m/n/9 + [] \OMS/cmsy/m/n/9 ^^A []\OML/cmm/m/it/9 I[] \OMS/cmsy/m/
 n/9 ^^@ []\OML/cmm/m/it/9 ^^W[] \OT1/cmr/m/n/9 + 3[]\OML/cmm/m/it/9 I[] \OT1/cm
 r/m/n/9 = \OMS/cmsy/m/n/9 ^^@\OML/cmm/m/it/9 ^^[[]n[]'[]I[]
  []
 
 
-Overfull \hbox (43.34012pt too wide) detected at line 971
+Overfull \hbox (43.34012pt too wide) detected at line 1694
 \OML/cmm/m/it/9 ^^\[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 ^^W[]; z[]\OT1/cmr/m/n/9 )
  = [][] \OML/cmm/m/it/9 dz[] [] n[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 z[]\OT1/cmr/
 m/n/9 )\OML/cmm/m/it/9 '[] []
@@ -714,21 +910,24 @@ m/n/9 )\OML/cmm/m/it/9 '[] []
 Package natbib Warning: There were undefined citations.
 
 
-LaTeX Warning: Reference `firstpage' on page 9 undefined on input line 996.
+LaTeX Warning: Reference `firstpage' on page 18 undefined on input line 1719.
 
-[9] (./lyaf.aux)
+[18] (./lyaf.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 6245 strings out of 495028
- 84636 string characters out of 6181497
- 171804 words of memory out of 5000000
- 9305 multiletter control sequences out of 15000+600000
+ 6357 strings out of 495028
+ 88060 string characters out of 6181497
+ 176313 words of memory out of 5000000
+ 9401 multiletter control sequences out of 15000+600000
  29664 words of font info for 108 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,15n,53p,850b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,15n,53p,852b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share
@@ -755,10 +954,10 @@ msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on lyaf.pdf (9 pages, 1334819 bytes).
+Output written on lyaf.pdf (18 pages, 17185612 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
+ 1332 PDF objects out of 1440 (max. 8388607)
+ 453 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

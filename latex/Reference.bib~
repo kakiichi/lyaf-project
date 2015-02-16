@@ -1,0 +1,1448 @@
+@ARTICLE{2014arXiv1406.7292D,
+   author = {{Dijkstra}, M.},
+    title = "{Lyman Alpha Emitting Galaxies as a Probe of Reionization}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1406.7292},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+     year = 2014,
+    month = jun,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1406.7292D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2007MNRAS.377.1175D,
+   author = {{Dijkstra}, M. and {Lidz}, A. and {Wyithe}, J.~S.~B.},
+    title = "{The impact of The IGM on high-redshift Ly{$\alpha$} emission lines}",
+  journal = {\mnras},
+   eprint = {astro-ph/0701667},
+ keywords = {line: profiles , radiative transfer , galaxies: high redshift , cosmology: theory},
+     year = 2007,
+    month = may,
+   volume = 377,
+    pages = {1175-1186},
+      doi = {10.1111/j.1365-2966.2007.11666.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.377.1175D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2013ApJ...775L..29T,
+   author = {{Treu}, T. and {Schmidt}, K.~B. and {Trenti}, M. and {Bradley}, L.~D. and 
+	{Stiavelli}, M.},
+    title = "{The Changing Ly{$\alpha$} Optical Depth in the Range 6 {\lt} z {\lt} 9 from the MOSFIRE Spectroscopy of Y-dropouts}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1308.5985},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: evolution, galaxies: high-redshift },
+     year = 2013,
+    month = sep,
+   volume = 775,
+      eid = {L29},
+    pages = {L29},
+      doi = {10.1088/2041-8205/775/1/L29},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...775L..29T},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2010MNRAS.408.1628S,
+   author = {{Stark}, D.~P. and {Ellis}, R.~S. and {Chiu}, K. et. al.},
+    title = "{Keck spectroscopy of faint 3 {\lt} z {\lt} 7 Lyman break galaxies - I. New constraints on cosmic reionization from the luminosity and redshift-dependent fraction of Lyman {$\alpha$} emission}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1003.5244},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: evolution, galaxies: formation, galaxies: high-redshift, cosmology: observations},
+     year = 2010,
+    month = nov,
+   volume = 408,
+    pages = {1628-1648},
+      doi = {10.1111/j.1365-2966.2010.17227.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.408.1628S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2014arXiv1403.4295B,
+   author = {{Bouwens}, R.~J. and {Illingworth}, G.~D. and {Oesch}, P.~A. et. al.},
+    title = "{UV Luminosity Functions at redshifts z\~{}4 to z\~{}10: 11000 Galaxies from HST Legacy Fields}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1403.4295},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+     year = 2014,
+    month = mar,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1403.4295B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...556A...2V,
+   author = {{van Haarlem}, M.~P. and {Wise}, M.~W. and {Gunst}, A.~W. et. al.},
+    title = "{LOFAR: The LOw-Frequency ARray}",
+  journal = {\aap},
+archivePrefix = "arXiv",
+   eprint = {1305.3550},
+ primaryClass = "astro-ph.IM",
+ keywords = {instrumentation: interferometers, radio continuum: general, radio lines: general, dark ages, reionization, first stars, telescopes},
+     year = 2013,
+    month = aug,
+   volume = 556,
+      eid = {A2},
+    pages = {A2},
+      doi = {10.1051/0004-6361/201220873},
+   adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...556A...2V},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014ApJ...788..106P,
+   author = {{Parsons}, A.~R. and {Liu}, A. and {Aguirre}, J.~E. and {Ali}, Z.~S. and 
+	{Bradley}, R.~F. and {Carilli}, C.~L. and {DeBoer}, D.~R. and 
+	{Dexter}, M.~R. and {Gugliucci}, N.~E. and {Jacobs}, D.~C. and 
+	{Klima}, P. and {MacMahon}, D.~H.~E. and {Manley}, J.~R. and 
+	{Moore}, D.~F. and {Pober}, J.~C. and {Stefan}, I.~I. and {Walbrugh}, W.~P.
+	},
+    title = "{New Limits on 21 cm Epoch of Reionization from PAPER-32 Consistent with an X-Ray Heated Intergalactic Medium at z = 7.7}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1304.4991},
+ keywords = {cosmology: observations, dark ages, reionization, first stars, early universe, instrumentation: interferometers, intergalactic medium, radio continuum: general},
+     year = 2014,
+    month = jun,
+   volume = 788,
+      eid = {106},
+    pages = {106},
+      doi = {10.1088/0004-637X/788/2/106},
+   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...788..106P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2013MNRAS.433..639P,
+   author = {{Paciga}, G. and {Albert}, J.~G. and {Bandura}, K. and {Chang}, T.-C. and 
+	{Gupta}, Y. and {Hirata}, C. and {Odegova}, J. and {Pen}, U.-L. and 
+	{Peterson}, J.~B. and {Roy}, J. and {Shaw}, J.~R. and {Sigurdson}, K. and 
+	{Voytek}, T.},
+    title = "{A simulation-calibrated limit on the H I power spectrum from the GMRT Epoch of Reionization experiment}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1301.5906},
+ primaryClass = "astro-ph.CO",
+ keywords = {intergalactic medium, cosmology: observations, diffuse radiation, radio lines: general},
+     year = 2013,
+    month = jul,
+   volume = 433,
+    pages = {639-647},
+      doi = {10.1093/mnras/stt753},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.433..639P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...550A.136Y,
+   author = {{Yatawatta}, S. and {de Bruyn}, A.~G. and {Brentjens}, M.~A. et. al.},
+    title = "{Initial deep LOFAR observations of epoch of reionization windows. I. The north celestial pole}",
+  journal = {\aap},
+archivePrefix = "arXiv",
+   eprint = {1301.1630},
+ primaryClass = "astro-ph.IM",
+ keywords = {dark ages, reionization, first stars, instrumentation: interferometers, techniques: interferometric, methods: data analysis},
+     year = 2013,
+    month = feb,
+   volume = 550,
+      eid = {A136},
+    pages = {A136},
+      doi = {10.1051/0004-6361/201220874},
+   adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...550A.136Y},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJS..208...19H,
+   author = {{Hinshaw}, G. and {Larson}, D. and {Komatsu}, E. et. al.},
+    title = "{Nine-year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Parameter Results}",
+  journal = {\apjs},
+archivePrefix = "arXiv",
+   eprint = {1212.5226},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmic background radiation, cosmology: observations, dark matter, early universe, instrumentation: detectors, space vehicles, space vehicles: instruments, telescopes },
+     year = 2013,
+    month = oct,
+   volume = 208,
+      eid = {19},
+    pages = {19},
+      doi = {10.1088/0067-0049/208/2/19},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJS..208...19H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2013ApJ...775L..29T,
+   author = {{Treu}, T. and {Schmidt}, K.~B. and {Trenti}, M. and {Bradley}, L.~D. and 
+	{Stiavelli}, M.},
+    title = "{The Changing Ly{$\alpha$} Optical Depth in the Range 6 {\lt} z {\lt} 9 from the MOSFIRE Spectroscopy of Y-dropouts}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1308.5985},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: evolution, galaxies: high-redshift },
+     year = 2013,
+    month = sep,
+   volume = 775,
+      eid = {L29},
+    pages = {L29},
+      doi = {10.1088/2041-8205/775/1/L29},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...775L..29T},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2012ApJ...744...83O,
+   author = {{Ono}, Y. and {Ouchi}, M. and {Mobasher}, B. and {Dickinson}, M. and 
+	{Penner}, K. and {Shimasaku}, K. and {Weiner}, B.~J. and {Kartaltepe}, J.~S. and 
+	{Nakajima}, K. and {Nayyeri}, H. and {Stern}, D. and {Kashikawa}, N. and 
+	{Spinrad}, H.},
+    title = "{Spectroscopic Confirmation of Three z-dropout Galaxies at z = 6.844-7.213: Demographics of Ly{$\alpha$} Emission in z \~{} 7 Galaxies}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1107.3159},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, galaxies: evolution, galaxies: formation, galaxies: high-redshift},
+     year = 2012,
+    month = jan,
+   volume = 744,
+      eid = {83},
+    pages = {83},
+      doi = {10.1088/0004-637X/744/2/83},
+   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...744...83O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2007MNRAS.376..534I,
+   author = {{Iliev}, I.~T. and {Mellema}, G. and {Shapiro}, P.~R. and {Pen}, U.-L.
+	},
+    title = "{Self-regulated reionization}",
+  journal = {\mnras},
+   eprint = {astro-ph/0607517},
+ keywords = {radiative transfer, intergalactic medium, galaxies: formation, cosmology: theory, large-scale structure of Universe, radio lines: galaxies},
+     year = 2007,
+    month = apr,
+   volume = 376,
+    pages = {534-548},
+      doi = {10.1111/j.1365-2966.2007.11482.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.376..534I},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014MNRAS.444.2114J,
+   author = {{Jensen}, H. and {Hayes}, M. and {Iliev}, I.~T. and {Laursen}, P. and 
+	{Mellema}, G. and {Zackrisson}, E.},
+    title = "{Studying reionization with the next generation of Ly{$\alpha$} emitter surveys}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1406.1358},
+ keywords = {methods: numerical, dark ages, reionization, first stars},
+     year = 2014,
+    month = nov,
+   volume = 444,
+    pages = {2114-2127},
+      doi = {10.1093/mnras/stu1600},
+   adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.444.2114J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2014arXiv1406.1358J,
+   author = {{Jensen}, H. and {Hayes}, M. and {Iliev}, I. and {Laursen}, P. and 
+	{Mellema}, G. and {Zackrisson}, E.},
+    title = "{Studying reionization with the next generation of Ly-alpha emitter surveys}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1406.1358},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
+     year = 2014,
+    month = jun,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1406.1358J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2014arXiv1403.5466P,
+   author = {{Pentericci}, L. and {Vanzella}, E. and {Fontana}, A. and {Castellano}, M. and 
+	{Treu}, T. and {Mesinger}, A. and {Dijkstra}, M. and {Grazian}, A. and 
+	{Bradac}, M. and {Cristiani}, S. and {Galametz}, A. and {Giavalisco}, M. and 
+	{Giallongo}, E. and {Maiolino}, R. and {Paris}, D. and {Santini}, P.
+	},
+    title = "{New observations of z\~{}7 galaxies: evidence for a patchy reionization}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1403.5466},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+     year = 2014,
+    month = mar,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1403.5466P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014MNRAS.441.2861H,
+   author = {{Hutter}, A. and {Dayal}, P. and {Partl}, A.~M. and {M{\"u}ller}, V.
+	},
+    title = "{The visibility of Lyman {$\alpha$} emitters: constraining reionization, ionizing photon escape fractions and dust}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1401.2830},
+ keywords = {radiative transfer, methods: numerical, dust, extinction, galaxies: high-redshift, dark ages, reionization, first stars},
+     year = 2014,
+    month = jul,
+   volume = 441,
+    pages = {2861-2877},
+      doi = {10.1093/mnras/stu791},
+   adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.441.2861H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014arXiv1406.6373M,
+   author = {{Mesinger}, A. and {Aykutalp}, A. and {Vanzella}, E. and {Pentericci}, L. and 
+	{Ferrara}, A. and {Dijkstra}, M.},
+    title = "{Can the intergalactic medium cause a rapid drop in Lyman alpha emission at z{\gt}6?}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1406.6373},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+     year = 2014,
+    month = jun,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1406.6373M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2013arXiv1304.4991P,
+   author = {{Parsons}, A.~R. and {Liu}, A. and {Aguirre}, J.~E. and {Ali}, Z.~S. and 
+	{Bradley}, R.~F. and {Carilli}, C.~L. and {DeBoer}, D.~R. and 
+	{Dexter}, M.~R. and {Gugliucci}, N.~E. and {Jacobs}, D.~C. and 
+	{Klima}, P. and {MacMahon}, D.~H.~E. and {Manley}, J.~R. and 
+	{Moore}, D.~F. and {Pober}, J.~C. and {Stefan}, I.~I. and {Walbrugh}, W.~P.
+	},
+    title = "{New Limits on 21cm EoR From PAPER-32 Consistent with an X-Ray Heated IGM at z=7.7}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1304.4991},
+ primaryClass = "astro-ph.CO",
+ keywords = {Astrophysics - Cosmology and Extragalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+     year = 2013,
+    month = apr,
+   adsurl = {http://adsabs.harvard.edu/abs/2013arXiv1304.4991P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.433..639P,
+   author = {{Paciga}, G. and {Albert}, J.~G. and {Bandura}, K. and {Chang}, T.-C. and 
+	{Gupta}, Y. and {Hirata}, C. and {Odegova}, J. and {Pen}, U.-L. and 
+	{Peterson}, J.~B. and {Roy}, J. and {Shaw}, J.~R. and {Sigurdson}, K. and 
+	{Voytek}, T.},
+    title = "{A simulation-calibrated limit on the H I power spectrum from the GMRT Epoch of Reionization experiment}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1301.5906},
+ primaryClass = "astro-ph.CO",
+ keywords = {intergalactic medium, cosmology: observations, diffuse radiation, radio lines: general},
+     year = 2013,
+    month = jul,
+   volume = 433,
+    pages = {639-647},
+      doi = {10.1093/mnras/stt753},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.433..639P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJ...768...71R,
+   author = {{Robertson}, B.~E. and {Furlanetto}, S.~R. and {Schneider}, E. and 
+	{Charlot}, S. and {Ellis}, R.~S. and {Stark}, D.~P. and {McLure}, R.~J. and 
+	{Dunlop}, J.~S. and {Koekemoer}, A. and {Schenker}, M.~A. and 
+	{Ouchi}, M. and {Ono}, Y. and {Curtis-Lake}, E. and {Rogers}, A.~B. and 
+	{Bowler}, R.~A.~A. and {Cirasuolo}, M.},
+    title = "{New Constraints on Cosmic Reionization from the 2012 Hubble Ultra Deep Field Campaign}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1301.1228},
+ primaryClass = "astro-ph.CO",
+ keywords = {dark ages, reionization, first stars, galaxies: evolution, galaxies: formation},
+     year = 2013,
+    month = may,
+   volume = 768,
+      eid = {71},
+    pages = {71},
+      doi = {10.1088/0004-637X/768/1/71},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...768...71R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJ...763L...7E,
+   author = {{Ellis}, R.~S. and {McLure}, R.~J. and {Dunlop}, J.~S. and {Robertson}, B.~E. and 
+	{Ono}, Y. and {Schenker}, M.~A. and {Koekemoer}, A. and {Bowler}, R.~A.~A. and 
+	{Ouchi}, M. and {Rogers}, A.~B. and {Curtis-Lake}, E. and {Schneider}, E. and 
+	{Charlot}, S. and {Stark}, D.~P. and {Furlanetto}, S.~R. and 
+	{Cirasuolo}, M.},
+    title = "{The Abundance of Star-forming Galaxies in the Redshift Range 8.5-12: New Results from the 2012 Hubble Ultra Deep Field Campaign}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1211.6804},
+ primaryClass = "astro-ph.CO",
+ keywords = {dark ages, reionization, first stars, galaxies: evolution, galaxies: formation, galaxies: stellar content },
+     year = 2013,
+    month = jan,
+   volume = 763,
+      eid = {L7},
+    pages = {L7},
+      doi = {10.1088/2041-8205/763/1/L7},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...763L...7E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.428.1366J,
+   author = {{Jensen}, H. and {Laursen}, P. and {Mellema}, G. and {Iliev}, I.~T. and 
+	{Sommer-Larsen}, J. and {Shapiro}, P.~R.},
+    title = "{On the use of Ly{$\alpha$} emitters as probes of reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1206.4028},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, methods: numerical, galaxies: high-redshift, galaxies: statistics},
+     year = 2013,
+    month = jan,
+   volume = 428,
+    pages = {1366-1381},
+      doi = {10.1093/mnras/sts116},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.428.1366J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.429.1695B,
+   author = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
+    title = "{On the rapid demise of Ly {$\alpha$} emitters at redshift z {\gsim} 7 due to the increasing incidence of optically thick absorption systems}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1208.4417},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: high-redshift, intergalactic medium, quasars: absorption lines, dark ages, reionization, first stars},
+     year = 2013,
+    month = feb,
+   volume = 429,
+    pages = {1695-1704},
+      doi = {10.1093/mnras/sts455},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.429.1695B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2007MNRAS.381...75M,
+   author = {{McQuinn}, M. and {Hernquist}, L. and {Zaldarriaga}, M. and 
+	{Dutta}, S.},
+    title = "{Studying reionization with Ly{$\alpha$} emitters}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0704.2239},
+ keywords = {line: profiles, galaxies: high-redshift, intergalactic medium, cosmology: theory, diffuse radiation, large-scale structure of Universe},
+     year = 2007,
+    month = oct,
+   volume = 381,
+    pages = {75-96},
+      doi = {10.1111/j.1365-2966.2007.12085.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.381...75M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2009MNRAS.394.1667F,
+   author = {{Furlanetto}, S.~R. and {Mesinger}, A.},
+    title = "{The ionizing background at the end of reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0809.4493},
+ keywords = {intergalactic medium , cosmology: theory , diffuse radiation},
+     year = 2009,
+    month = apr,
+   volume = 394,
+    pages = {1667-1673},
+      doi = {10.1111/j.1365-2966.2009.14449.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.394.1667F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2005ApJ...635..123P,
+   author = {{Prochaska}, J.~X. and {Herbert-Fort}, S. and {Wolfe}, A.~M.
+	},
+    title = "{The SDSS Damped Ly{$\alpha$} Survey: Data Release 3}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/0508361},
+ keywords = {Galaxies: Evolution, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+     year = 2005,
+    month = dec,
+   volume = 635,
+    pages = {123-142},
+      doi = {10.1086/497287},
+   adsurl = {http://adsabs.harvard.edu/abs/2005ApJ...635..123P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2005ARA&A..43..861W,
+   author = {{Wolfe}, A.~M. and {Gawiser}, E. and {Prochaska}, J.~X.},
+    title = "{Damped Ly {$\alpha$} Systems}",
+  journal = {\araa},
+   eprint = {arXiv:astro-ph/0509481},
+     year = 2005,
+    month = sep,
+   volume = 43,
+    pages = {861-918},
+      doi = {10.1146/annurev.astro.42.053102.133950},
+   adsurl = {http://adsabs.harvard.edu/abs/2005ARA%26A..43..861W},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009RvMP...81.1405M,
+   author = {{Meiksin}, A.~A.},
+    title = "{The physics of the intergalactic medium}",
+  journal = {Reviews of Modern Physics},
+archivePrefix = "arXiv",
+   eprint = {0711.3358},
+ keywords = {Atomic processes and interactions, Dark matter, Intergalactic matter, quasar absorption and emission-line systems, Lyman forest, Cosmology},
+     year = 2009,
+    month = oct,
+   volume = 81,
+    pages = {1405-1469},
+      doi = {10.1103/RevModPhys.81.1405},
+   adsurl = {http://adsabs.harvard.edu/abs/2009RvMP...81.1405M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2002MNRAS.335..555K,
+   author = {{Kim}, T.-S. and {Carswell}, R.~F. and {Cristiani}, S. and {D'Odorico}, S. and 
+	{Giallongo}, E.},
+    title = "{The physical properties of the Ly{$\alpha$} forest at z {\gt} 1.5}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0205237},
+ keywords = {quasars: absorption lines},
+     year = 2002,
+    month = sep,
+   volume = 335,
+    pages = {555-573},
+      doi = {10.1046/j.1365-8711.2002.05599.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2002MNRAS.335..555K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2003MNRAS.346.1103P,
+   author = {{P{\'e}roux}, C. and {McMahon}, R.~G. and {Storrie-Lombardi}, L.~J. and 
+	{Irwin}, M.~J.},
+    title = "{The evolution of {$\Omega$}$_{HI}$ and the epoch of formation of damped Lyman {$\alpha$} absorbers}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0107045},
+ keywords = {galaxies: evolution, galaxies: formation, intergalactic medium, quasars: absorption lines, cosmology: observations},
+     year = 2003,
+    month = dec,
+   volume = 346,
+    pages = {1103-1115},
+      doi = {10.1111/j.1365-2966.2003.07129.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2003MNRAS.346.1103P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006AJ....132..117F,
+   author = {{Fan}, X. and {Strauss}, M.~A. and {Becker}, R.~H. and {White}, R.~L. and 
+	{Gunn}, J.~E. and {Knapp}, G.~R. and {Richards}, G.~T. and {Schneider}, D.~P. and 
+	{Brinkmann}, J. and {Fukugita}, M.},
+    title = "{Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z\~{}6 Quasars. II. A Sample of 19 Quasars}",
+  journal = {\aj},
+   eprint = {arXiv:astro-ph/0512082},
+ keywords = {Cosmology: Observations, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines, Galaxies: Quasars: General},
+     year = 2006,
+    month = jul,
+   volume = 132,
+    pages = {117-136},
+      doi = {10.1086/504836},
+   adsurl = {http://adsabs.harvard.edu/abs/2006AJ....132..117F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013arXiv1307.2259B,
+   author = {{Becker}, G.~D. and {Bolton}, J.~S.},
+    title = "{New Measurements of the Ionizing Ultraviolet Background over 2 {\lt} z {\lt} 5 and Implications for Hydrogen Reionization}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1307.2259},
+ primaryClass = "astro-ph.CO",
+ keywords = {Astrophysics - Cosmology and Extragalactic Astrophysics},
+     year = 2013,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2013arXiv1307.2259B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.415.3237M,
+   author = {{McGreer}, I.~D. and {Mesinger}, A. and {Fan}, X.},
+    title = "{The first (nearly) model-independent constraint on the neutral hydrogen fraction at z {\tilde} 6}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1101.3314},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: high-redshift, quasars: absorption lines, cosmology: observations, dark ages, reionization, first stars, diffuse radiation, early Universe},
+     year = 2011,
+    month = aug,
+   volume = 415,
+    pages = {3237-3246},
+      doi = {10.1111/j.1365-2966.2011.18935.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.415.3237M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008MNRAS.388.1101M,
+   author = {{McQuinn}, M. and {Lidz}, A. and {Zaldarriaga}, M. and {Hernquist}, L. and 
+	{Dutta}, S.},
+    title = "{Probing the neutral fraction of the IGM with GRBs during the epoch of reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0710.1018},
+ keywords = {galaxies: high-redshift , intergalactic medium , cosmology: theory},
+     year = 2008,
+    month = aug,
+   volume = 388,
+    pages = {1101-1110},
+      doi = {10.1111/j.1365-2966.2008.13271.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2008MNRAS.388.1101M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJ...677...12O,
+   author = {{Ota}, K. and {Iye}, M. and {Kashikawa}, N. and {Shimasaku}, K. and 
+	{Kobayashi}, M. and {Totani}, T. and {Nagashima}, M. and {Morokuma}, T. and 
+	{Furusawa}, H. and {Hattori}, T. and {Matsuda}, Y. and {Hashimoto}, T. and 
+	{Ouchi}, M.},
+    title = "{Reionization and Galaxy Evolution Probed by z = 7 Ly{$\alpha$} Emitters}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {0707.1561},
+ keywords = {Cosmology: Observations, Cosmology: Early Universe, Galaxies: Evolution, Galaxies: High-Redshift},
+     year = 2008,
+    month = apr,
+   volume = 677,
+    pages = {12-26},
+      doi = {10.1086/529006},
+   adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...677...12O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010ApJ...723..869O,
+   author = {{Ouchi}, M. and {Shimasaku}, K. and {Furusawa}, H. and {Saito}, T. and 
+	{Yoshida}, M. and {Akiyama}, M. and {Ono}, Y. and {Yamada}, T. and 
+	{Ota}, K. and {Kashikawa}, N. and {Iye}, M. and {Kodama}, T. and 
+	{Okamura}, S. and {Simpson}, C. and {Yoshida}, M.},
+    title = "{Statistics of 207 Ly{$\alpha$} Emitters at a Redshift Near 7: Constraints on Reionization and Galaxy Formation Models}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1007.2961},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, dark ages, reionization, first stars, galaxies: formation, galaxies: high-redshift, galaxies: luminosity function, mass function},
+     year = 2010,
+    month = nov,
+   volume = 723,
+    pages = {869-894},
+      doi = {10.1088/0004-637X/723/1/869},
+   adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...723..869O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.416L..70B,
+   author = {{Bolton}, J.~S. and {Haehnelt}, M.~G. and {Warren}, S.~J. and 
+	{Hewett}, P.~C. and {Mortlock}, D.~J. and {Venemans}, B.~P. and 
+	{McMahon}, R.~G. and {Simpson}, C.},
+    title = "{How neutral is the intergalactic medium surrounding the redshift z = 7.085 quasar ULAS J1120+0641?}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1106.6089},
+ primaryClass = "astro-ph.CO",
+ keywords = {dark ages, reionization, first stars, intergalactic medium, quasars: absorption lines},
+     year = 2011,
+    month = sep,
+   volume = 416,
+    pages = {L70-L74},
+      doi = {10.1111/j.1745-3933.2011.01100.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.416L..70B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.428.3058S,
+   author = {{Schroeder}, J. and {Mesinger}, A. and {Haiman}, Z.},
+    title = "{Evidence of Gunn-Peterson damping wings in high-z quasar spectra: strengthening the case for incomplete reionization at z {\tilde} 6-7}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1204.2838},
+ primaryClass = "astro-ph.CO",
+ keywords = {quasars: general, cosmology-theory, dark ages, reionization, first stars, diffuse radiation, early Universe, large-scale structure of Universe},
+     year = 2013,
+    month = feb,
+   volume = 428,
+    pages = {3058-3071},
+      doi = {10.1093/mnras/sts253},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.428.3058S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{2006agna.book.....O,
+   author = {{Osterbrock}, D.~E. and {Ferland}, G.~J.},
+    title = "{Astrophysics of gaseous nebulae and active galactic nuclei}",
+ keywords = {GASEOUS NEBULAE, PHOTOIONIZATION, THERMAL EQUILIBRIUM, EMISSION SPECTRA, INTERSTELLAR DUST, H II REGIONS, PLANETARY NEBULAE, SUPERNOVA REMNANTS, ACTIVE GALACTIC NUCLEI},
+booktitle = {Astrophysics of gaseous nebulae and active galactic nuclei, 2nd.~ed.~by D.E.~Osterbrock and G.J.~Ferland.~Sausalito, CA: University Science Books, 2006},
+     year = 2006,
+   adsurl = {http://adsabs.harvard.edu/abs/2006agna.book.....O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...530....1M,
+   author = {{Miralda-Escud{\'e}}, J. and {Haehnelt}, M. and {Rees}, M.~J.
+	},
+    title = "{Reionization of the Inhomogeneous Universe}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9812306},
+ keywords = {COSMOLOGY: THEORY, GALAXIES: INTERGALACTIC MEDIUM, COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, GALAXIES: QUASARS: ABSORPTION LINES},
+     year = 2000,
+    month = feb,
+   volume = 530,
+    pages = {1-16},
+      doi = {10.1086/308330},
+   adsurl = {http://adsabs.harvard.edu/abs/2000ApJ...530....1M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008MNRAS.385.1348M,
+   author = {{Mesinger}, A. and {Furlanetto}, S.~R.},
+    title = "{Ly{$\alpha$} damping wing constraints on inhomogeneous reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0710.0371},
+ keywords = {intergalactic medium , cosmology: theory , early Universe},
+     year = 2008,
+    month = apr,
+   volume = 385,
+    pages = {1348-1358},
+      doi = {10.1111/j.1365-2966.2007.12836.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2008MNRAS.385.1348M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2005MNRAS.363.1031F,
+   author = {{Furlanetto}, S.~R. and {Oh}, S.~P.},
+    title = "{Taxing the rich: recombinations and bubble growth during reionization}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0505065},
+ keywords = {galaxies: evolution, intergalactic medium, cosmology: theory},
+     year = 2005,
+    month = nov,
+   volume = 363,
+    pages = {1031-1048},
+      doi = {10.1111/j.1365-2966.2005.09505.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2005MNRAS.363.1031F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2001ApJ...559..507S,
+   author = {{Schaye}, J.},
+    title = "{Model-independent Insights into the Nature of the Ly{$\alpha$} Forest and the Distribution of Matter in the Universe}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/0104272},
+ keywords = {Cosmology: Theory, Galaxies: Formation, Hydrodynamics, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+     year = 2001,
+    month = oct,
+   volume = 559,
+    pages = {507-515},
+      doi = {10.1086/322421},
+   adsurl = {http://adsabs.harvard.edu/abs/2001ApJ...559..507S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004ApJ...601...64B,
+   author = {{Barkana}, R. and {Loeb}, A.},
+    title = "{Gamma-Ray Bursts versus Quasars: Ly{$\alpha$} Signatures of Reionization versus Cosmological Infall}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/0305470},
+ keywords = {Cosmology: Theory, Galaxies: Formation, Galaxies: High-Redshift, Galaxies: Quasars: Absorption Lines},
+     year = 2004,
+    month = jan,
+   volume = 601,
+    pages = {64-77},
+      doi = {10.1086/380435},
+   adsurl = {http://adsabs.harvard.edu/abs/2004ApJ...601...64B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012MNRAS.423..862K,
+   author = {{Kuhlen}, M. and {Faucher-Gigu{\`e}re}, C.-A.},
+    title = "{Concordance models of reionization: implications for faint galaxies and escape fraction evolution}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1201.0757},
+ primaryClass = "astro-ph.CO",
+ keywords = {galaxies: dwarf, galaxies: formation, galaxies: high-redshift, intergalactic medium, cosmology: theory, dark ages, reionization, first stars},
+     year = 2012,
+    month = jun,
+   volume = 423,
+    pages = {862-876},
+      doi = {10.1111/j.1365-2966.2012.20924.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.423..862K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1996ApJ...461...20H,
+   author = {{Haardt}, F. and {Madau}, P.},
+    title = "{Radiative Transfer in a Clumpy Universe. II. The Ultraviolet Extragalactic Background}",
+  journal = {\apj},
+   eprint = {astro-ph/9509093},
+ keywords = {COSMOLOGY: THEORY, COSMOLOGY: DIFFUSE RADIATION, GALAXIES: INTERGALACTIC MEDIUM, GALAXIES: QUASARS: ABSORPTION LINES, RADIATIVE TRANSFER},
+     year = 1996,
+    month = apr,
+   volume = 461,
+    pages = {20},
+      doi = {10.1086/177035},
+   adsurl = {http://adsabs.harvard.edu/abs/1996ApJ...461...20H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{1999ApJ...514..648M,
+   author = {{Madau}, P. and {Haardt}, F. and {Rees}, M.~J.},
+    title = "{Radiative Transfer in a Clumpy Universe. III. The Nature of Cosmological Ionizing Sources}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9809058},
+ keywords = {COSMOLOGY: DIFFUSE RADIATION, GALAXIES: INTERGALACTIC MEDIUM, RADIATIVE TRANSFER},
+     year = 1999,
+    month = apr,
+   volume = 514,
+    pages = {648-659},
+      doi = {10.1086/306975},
+   adsurl = {http://adsabs.harvard.edu/abs/1999ApJ...514..648M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{1984oup..book.....M,
+   author = {{Mihalas}, D. and {Mihalas}, B.~W.},
+    title = "{Foundations of radiation hydrodynamics}",
+ keywords = {ASTROPHYSICS, COMPRESSIBLE FLUIDS, GAS DYNAMICS, HYDRODYNAMIC EQUATIONS, RADIATION LAWS, RADIATIVE HEAT TRANSFER, EQUATIONS OF MOTION, GRAVITATIONAL WAVES, IDEAL FLUIDS, KINEMATICS, RADIATION DISTRIBUTION, RELATIVITY, SHOCK WAVES, SOUND WAVES, STATISTICAL MECHANICS, TENSOR ANALYSIS, THERMAL RADIATION, THERMODYNAMICS, VISCOUS FLUIDS, WIND (METEOROLOGY)},
+booktitle = {New York, Oxford University Press, 1984, 731 p.},
+     year = 1984,
+   adsurl = {http://adsabs.harvard.edu/abs/1984oup..book.....M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{2004rahy.book.....C,
+   author = {{Castor}, J.~I.},
+    title = "{Radiation Hydrodynamics}",
+booktitle = {Radiation Hydrodynamics, by John I.~Castor, pp.~368.~ISBN 0521833094.~Cambridge, UK: Cambridge University Press, November 2004.},
+     year = 2004,
+    month = nov,
+   adsurl = {http://adsabs.harvard.edu/abs/2004rahy.book.....C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJ...728...52L,
+   author = {{Laursen}, P. and {Sommer-Larsen}, J. and {Razoumov}, A.~O.},
+    title = "{Intergalactic Transmission and Its Impact on the Ly{$\alpha$} Line}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1009.1384},
+ primaryClass = "astro-ph.CO",
+ keywords = {intergalactic medium, line: profiles, radiative transfer, scattering},
+     year = 2011,
+    month = feb,
+   volume = 728,
+      eid = {52},
+    pages = {52},
+      doi = {10.1088/0004-637X/728/1/52},
+   adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...728...52L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJ...649...14D,
+   author = {{Dijkstra}, M. and {Haiman}, Z. and {Spaans}, M.},
+    title = "{Ly{$\alpha$} Radiation from Collapsing Protogalaxies. I. Characteristics of the Emergent Spectrum}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/0510407},
+ keywords = {Cosmology: Theory, Galaxies: Formation, Galaxies: Halos, Galaxies: Intergalactic Medium, Galaxies: Quasars: General, Radiative Transfer},
+     year = 2006,
+    month = sep,
+   volume = 649,
+    pages = {14-36},
+      doi = {10.1086/506243},
+   adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...649...14D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993ApJ...412...34M,
+   author = {{Meiksin}, A. and {Madau}, P.},
+    title = "{On the photoionization of the intergalactic medium by quasars at high redshift}",
+  journal = {\apj},
+ keywords = {INTERGALACTIC MEDIA, PHOTOIONIZATION, QUASARS, RED SHIFT, ASTRONOMICAL MODELS, COMPUTATIONAL ASTROPHYSICS, H II REGIONS, ULTRAVIOLET RADIATION},
+     year = 1993,
+    month = jul,
+   volume = 412,
+    pages = {34-55},
+      doi = {10.1086/172898},
+   adsurl = {http://adsabs.harvard.edu/abs/1993ApJ...412...34M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012Natur.492...79S,
+   author = {{Simcoe}, R.~A. and {Sullivan}, P.~W. and {Cooksey}, K.~L. and 
+	{Kao}, M.~M. and {Matejek}, M.~S. and {Burgasser}, A.~J.},
+    title = "{Extremely metal-poor gas at a redshift of 7}",
+  journal = {\nat},
+archivePrefix = "arXiv",
+   eprint = {1212.0548},
+ primaryClass = "astro-ph.CO",
+     year = 2012,
+    month = dec,
+   volume = 492,
+    pages = {79-82},
+      doi = {10.1038/nature11612},
+   adsurl = {http://adsabs.harvard.edu/abs/2012Natur.492...79S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...750...67R,
+   author = {{Rudie}, G.~C. and {Steidel}, C.~C. and {Trainor}, R.~F. and 
+	{Rakic}, O. and {Bogosavljevi{\'c}}, M. and {Pettini}, M. and 
+	{Reddy}, N. and {Shapley}, A.~E. and {Erb}, D.~K. and {Law}, D.~R.
+	},
+    title = "{The Gaseous Environment of High-z Galaxies: Precision Measurements of Neutral Hydrogen in the Circumgalactic Medium of z \~{} 2-3 Galaxies in the Keck Baryonic Structure Survey}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1202.6055},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, galaxies: evolution, galaxies: formation, galaxies: high-redshift, intergalactic medium, quasars: absorption lines},
+     year = 2012,
+    month = may,
+   volume = 750,
+      eid = {67},
+    pages = {67},
+      doi = {10.1088/0004-637X/750/1/67},
+   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...750...67R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2006ApJ...652..994C,
+   author = {{Cooke}, J. and {Wolfe}, A.~M. and {Gawiser}, E. and {Prochaska}, J.~X.
+	},
+    title = "{Survey for Galaxies Associated with z \~{} 3 Damped Ly{$\alpha$} Systems. II. Galaxy-Absorber Correlation Functions}",
+  journal = {\apj},
+   eprint = {astro-ph/0607149},
+ keywords = {Galaxies: Formation, Galaxies: High-Redshift, Galaxies: Quasars: Absorption Lines},
+     year = 2006,
+    month = dec,
+   volume = 652,
+    pages = {994-1010},
+      doi = {10.1086/507476},
+   adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...652..994C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2006ApJ...636L...9C,
+   author = {{Cooke}, J. and {Wolfe}, A.~M. and {Gawiser}, E. and {Prochaska}, J.~X.
+	},
+    title = "{Measurement of the Spatial Cross-Correlation Function of Damped Ly{$\alpha$} Systems and Lyman Break Galaxies}",
+  journal = {\apjl},
+   eprint = {astro-ph/0511509},
+ keywords = {Galaxies: Evolution, Galaxies: Formation, Galaxies: High-Redshift, Galaxies: Quasars: Absorption Lines},
+     year = 2006,
+    month = jan,
+   volume = 636,
+    pages = {L9-L12},
+      doi = {10.1086/499779},
+   adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...636L...9C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+
+@ARTICLE{2014MNRAS.438..529R,
+   author = {{Rahmati}, A. and {Schaye}, J.},
+    title = "{Predictions for the relation between strong HI absorbers and galaxies at redshift 3}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1310.3317},
+ primaryClass = "astro-ph.CO",
+ keywords = {methods: numerical, galaxies: evolution, galaxies: formation, galaxies: high-redshift, intergalactic medium, quasars: absorption lines},
+     year = 2014,
+    month = feb,
+   volume = 438,
+    pages = {529-547},
+      doi = {10.1093/mnras/stt2235},
+   adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.438..529R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2011MNRAS.411...54L,
+   author = {{Lee}, T.~S. and {Nagamine}, K. and {Hernquist}, L. and {Springel}, V.
+	},
+    title = "{Cross-correlation between damped Ly{$\alpha$} systems and Lyman break galaxies in cosmological SPH simulations}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0812.2972},
+ keywords = {methods: numerical, galaxies: evolution, galaxies: formation, quasars: absorption lines, galaxies: star formation, cosmology: theory},
+     year = 2011,
+    month = feb,
+   volume = 411,
+    pages = {54-64},
+      doi = {10.1111/j.1365-2966.2010.17668.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.411...54L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{1980ApJ...240..387P,
+   author = {{Paresce}, F. and {McKee}, C.~F. and {Bowyer}, S.},
+    title = "{Galactic and extragalactic contributions to the far-ultraviolet background}",
+  journal = {\apj},
+ keywords = {BACKGROUND RADIATION, FAR ULTRAVIOLET RADIATION, GALACTIC RADIATION, INTERGALACTIC MEDIA, ULTRAVIOLET ASTRONOMY, COSMIC DUST, INTERSTELLAR RADIATION, RED SHIFT, STELLAR RADIATION},
+     year = 1980,
+    month = sep,
+   volume = 240,
+    pages = {387-400},
+      doi = {10.1086/158244},
+   adsurl = {http://adsabs.harvard.edu/abs/1980ApJ...240..387P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013ApJ...765..137O,
+   author = {{O'Meara}, J.~M. and {Prochaska}, J.~X. and {Worseck}, G. and 
+	{Chen}, H.-W. and {Madau}, P.},
+    title = "{The HST/ACS+WFC3 Survey for Lyman Limit Systems. II. Science}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1204.3093},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, intergalactic medium, quasars: absorption lines, quasars: general, surveys, ultraviolet: general},
+     year = 2013,
+    month = mar,
+   volume = 765,
+      eid = {137},
+    pages = {137},
+      doi = {10.1088/0004-637X/765/2/137},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...765..137O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2002A&A...385..337T,
+   author = {{Teyssier}, R.},
+    title = "{Cosmological hydrodynamics with adaptive mesh refinement. A new high resolution code called RAMSES}",
+  journal = {\aap},
+   eprint = {arXiv:astro-ph/0111367},
+ keywords = {GRAVITATION, HYDRODYNAMICS, METHODS: NUMERICAL, COSMOLOGY: THEORY, COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE},
+     year = 2002,
+    month = apr,
+   volume = 385,
+    pages = {337-364},
+      doi = {10.1051/0004-6361:20011817},
+   adsurl = {http://adsabs.harvard.edu/abs/2002A%26A...385..337T},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995astro.ph..6070B,
+   author = {{Bertschinger}, E.},
+    title = "{COSMICS: Cosmological Initial Conditions and Microwave Anisotropy Codes}",
+  journal = {ArXiv Astrophysics e-prints},
+   eprint = {arXiv:astro-ph/9506070},
+     year = 1995,
+    month = jun,
+   adsurl = {http://adsabs.harvard.edu/abs/1995astro.ph..6070B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1999ApJ...523L...1S,
+   author = {{Seager}, S. and {Sasselov}, D.~D. and {Scott}, D.},
+    title = "{A New Calculation of the Recombination Epoch}",
+  journal = {\apjl},
+   eprint = {arXiv:astro-ph/9909275},
+ keywords = {ATOMIC PROCESSES, COSMOLOGY: COSMIC MICROWAVE BACKGROUND, COSMOLOGY: THEORY, COSMOLOGY: EARLY UNIVERSE},
+     year = 1999,
+    month = sep,
+   volume = 523,
+    pages = {L1-L5},
+      doi = {10.1086/312250},
+   adsurl = {http://adsabs.harvard.edu/abs/1999ApJ...523L...1S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998ApJ...498..137E,
+   author = {{Eisenstein}, D.~J. and {Hut}, P.},
+    title = "{HOP: A New Group-Finding Algorithm for N-Body Simulations}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9712200},
+ keywords = {COSMOLOGY: THEORY, COSMOLOGY: DARK MATTER, METHODS: NUMERICAL},
+     year = 1998,
+    month = may,
+   volume = 498,
+    pages = {137},
+      doi = {10.1086/305535},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...498..137E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2001MNRAS.324..381C,
+   author = {{Ciardi}, B. and {Ferrara}, A. and {Marri}, S. and {Raimondo}, G.
+	},
+    title = "{Cosmological reionization around the first stars: Monte Carlo radiative transfer}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0005181},
+ keywords = {RADIATIVE TRANSFER, GALAXIES: FORMATION, INTERGALACTIC MEDIUM, COSMOLOGY: THEORY},
+     year = 2001,
+    month = jun,
+   volume = 324,
+    pages = {381-388},
+      doi = {10.1046/j.1365-8711.2001.04316.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2001MNRAS.324..381C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2003MNRAS.345..379M,
+   author = {{Maselli}, A. and {Ferrara}, A. and {Ciardi}, B.},
+    title = "{CRASH: a radiative transfer scheme}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0307117},
+ keywords = {radiative transfer, methods: numerical , intergalactic medium , cosmology: theory},
+     year = 2003,
+    month = oct,
+   volume = 345,
+    pages = {379-394},
+      doi = {10.1046/j.1365-8711.2003.06979.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2003MNRAS.345..379M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009MNRAS.393..171M,
+   author = {{Maselli}, A. and {Ciardi}, B. and {Kanekar}, A.},
+    title = "{CRASH2: coloured packets and other updates}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0811.0315},
+ keywords = {radiative transfer , methods: numerical , intergalactic medium , cosmology: theory},
+     year = 2009,
+    month = feb,
+   volume = 393,
+    pages = {171-178},
+      doi = {10.1111/j.1365-2966.2008.14197.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.393..171M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.431..722G,
+   author = {{Graziani}, L. and {Maselli}, A. and {Ciardi}, B.},
+    title = "{CRASH3: cosmological radiative transfer through metals}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1211.0325},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, intergalactic medium, cosmology: theory},
+     year = 2013,
+    month = may,
+   volume = 431,
+    pages = {722-740},
+      doi = {10.1093/mnras/stt206},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.431..722G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012MNRAS.423..558C,
+   author = {{Ciardi}, B. and {Bolton}, J.~S. and {Maselli}, A. and {Graziani}, L.
+	},
+    title = "{The effect of intergalactic helium on hydrogen reionization: implications for the sources of ionizing photons at z{\gt}6}",
+  journal = {\mnras},
+ keywords = {methods: numerical, intergalactic medium, cosmology: theory, dark ages, reionization, first stars},
+     year = 2012,
+    month = jun,
+   volume = 423,
+    pages = {558-574},
+      doi = {10.1111/j.1365-2966.2012.20902.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.423..558C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2007MNRAS.382..325B,
+   author = {{Bolton}, J.~S. and {Haehnelt}, M.~G.},
+    title = "{The observed ionization rate of the intergalactic medium and the ionizing emissivity at z {\gt}= 5: evidence for a photon-starved and extended epoch of reionization}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0703306},
+ keywords = {hydrodynamics, methods: numerical, intergalactic medium, quasars: absorption lines, diffuse radiation},
+     year = 2007,
+    month = nov,
+   volume = 382,
+    pages = {325-341},
+      doi = {10.1111/j.1365-2966.2007.12372.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.382..325B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.430.2427R,
+   author = {{Rahmati}, A. and {Pawlik}, A.~H. and {Raicevic}, M. and {Schaye}, J.},
+    title = "{On the evolution of the H I column density distribution in cosmological simulations}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1210.7808},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, methods: numerical, galaxies: evolution, galaxies: formation, galaxies: high-redshift, intergalactic medium},
+     year = 2013,
+    month = apr,
+   volume = 430,
+    pages = {2427-2445},
+      doi = {10.1093/mnras/stt066},
+   adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.430.2427R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJS..176..301O,
+   author = {{Ouchi}, M. and {Shimasaku}, K. and {Akiyama}, M. and {Simpson}, C. and 
+	{Saito}, T. and {Ueda}, Y. and {Furusawa}, H. and {Sekiguchi}, K. and 
+	{Yamada}, T. and {Kodama}, T. and {Kashikawa}, N. and {Okamura}, S. and 
+	{Iye}, M. and {Takata}, T. and {Yoshida}, M. and {Yoshida}, M.
+	},
+    title = "{The Subaru/XMM-Newton Deep Survey (SXDS). IV. Evolution of Ly{$\alpha$} Emitters from z=3.1 to 5.7 in the 1 deg$^{2}$ Field: Luminosity Functions and AGN}",
+  journal = {\apjs},
+archivePrefix = "arXiv",
+   eprint = {0707.3161},
+ keywords = {Cosmology: Observations, Galaxies: Formation, Galaxies: High-Redshift},
+     year = 2008,
+    month = jun,
+   volume = 176,
+    pages = {301-330},
+      doi = {10.1086/527673},
+   adsurl = {http://adsabs.harvard.edu/abs/2008ApJS..176..301O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000MNRAS.318.1144P,
+   author = {{Peacock}, J.~A. and {Smith}, R.~E.},
+    title = "{Halo occupation numbers and galaxy bias}",
+  journal = {\mnras},
+   eprint = {arXiv:astro-ph/0005010},
+ keywords = {GALAXIES: CLUSTERS: GENERAL, COSMOLOGY: THEORY, LARGE-SCALE STRUCTURE OF UNIVERSE},
+     year = 2000,
+    month = nov,
+   volume = 318,
+    pages = {1144-1156},
+      doi = {10.1046/j.1365-8711.2000.03779.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2000MNRAS.318.1144P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998ApJ...498..106M,
+   author = {{Madau}, P. and {Pozzetti}, L. and {Dickinson}, M.},
+    title = "{The Star Formation History of Field Galaxies}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9708220},
+ keywords = {GALAXIES: EVOLUTION, GALAXIES: PHOTOMETRY, COSMOLOGY: THEORY, GALAXIES: STELLAR CONTENT},
+     year = 1998,
+    month = may,
+   volume = 498,
+    pages = {106},
+      doi = {10.1086/305523},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...498..106M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998ApJ...498..541K,
+   author = {{Kennicutt}, Jr., R.~C.},
+    title = "{The Global Schmidt Law in Star-forming Galaxies}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9712213},
+ keywords = {GALAXIES: EVOLUTION, GALAXIES: ISM, GALAXIES: SPIRAL, GALAXIES: STELLAR CONTENT, GALAXIES: STARBURST, STARS: FORMATION},
+     year = 1998,
+    month = may,
+   volume = 498,
+    pages = {541},
+      doi = {10.1086/305588},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...498..541K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.410..830D,
+   author = {{Dayal}, P. and {Maselli}, A. and {Ferrara}, A.},
+    title = "{The visibility of Lyman {$\alpha$} emitters during reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1002.0839},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, methods: numerical, dust, extinction, galaxies: high-redshift, galaxies: luminosity function, mass function, cosmology: theory},
+     year = 2011,
+    month = jan,
+   volume = 410,
+    pages = {830-843},
+      doi = {10.1111/j.1365-2966.2010.17482.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.410..830D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014MNRAS.440.3309D,
+   author = {{Dijkstra}, M. and {Wyithe}, S. and {Haiman}, Z. and {Mesinger}, A. and 
+	{Pentericci}, L.},
+    title = "{Evolution in the escape fraction of ionizing photons and the decline in strong Ly{$\alpha$} emission from z {\gt} 6 galaxies}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1401.7676},
+ primaryClass = "astro-ph.CO",
+ keywords = {line: formation, radiative transfer, intergalactic medium, galaxies: ISM, cosmology: observations, ultraviolet: galaxies},
+     year = 2014,
+    month = jun,
+   volume = 440,
+    pages = {3309-3316},
+      doi = {10.1093/mnras/stu531},
+   adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.440.3309D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2011MNRAS.414.2139D,
+   author = {{Dijkstra}, M. and {Mesinger}, A. and {Wyithe}, J.~S.~B.},
+    title = "{The detectability of Ly{$\alpha$} emission from galaxies during the epoch of reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1101.5160},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, galaxies: high-redshift, galaxies: stellar content, dark ages, reionization, first stars, early Universe, large-scale structure of Universe},
+     year = 2011,
+    month = jul,
+   volume = 414,
+    pages = {2139-2147},
+      doi = {10.1111/j.1365-2966.2011.18530.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.414.2139D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012MNRAS.424.2193J,
+   author = {{Jeeson-Daniel}, A. and {Ciardi}, B. and {Maio}, U. and {Pierleoni}, M. and 
+	{Dijkstra}, M. and {Maselli}, A.},
+    title = "{Effect of intergalactic medium on the observability of Ly{$\alpha$} emitters during cosmic reionization}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1204.2554},
+ primaryClass = "astro-ph.CO",
+ keywords = {radiative transfer, scattering, methods: numerical, galaxies: high-redshift, intergalactic medium, cosmology: reionization },
+     year = 2012,
+    month = aug,
+   volume = 424,
+    pages = {2193-2212},
+      doi = {10.1111/j.1365-2966.2012.21378.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.424.2193J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2010ApJ...716..574Z,
+   author = {{Zheng}, Z. and {Cen}, R. and {Trac}, H. and {Miralda-Escud{\'e}}, J.
+	},
+    title = "{Radiative Transfer Modeling of Ly{$\alpha$} Emitters. I. Statistics of Spectra and Luminosity}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {0910.2712},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, galaxies: halos, galaxies: high-redshift, galaxies: statistics, intergalactic medium, large-scale structure of universe, line: profiles, radiative transfer, scattering},
+     year = 2010,
+    month = jun,
+   volume = 716,
+    pages = {574-598},
+      doi = {10.1088/0004-637X/716/1/574},
+   adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...716..574Z},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004MNRAS.349.1137S,
+   author = {{Santos}, M.~R.},
+    title = "{Probing reionization with Lyman {$\alpha$} emission lines}",
+  journal = {\mnras},
+   eprint = {astro-ph/0308196},
+ keywords = {line: profiles, galaxies: high-redshift, intergalactic medium, cosmology: theory, diffuse radiation},
+     year = 2004,
+    month = apr,
+   volume = 349,
+    pages = {1137-1152},
+      doi = {10.1111/j.1365-2966.2004.07594.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2004MNRAS.349.1137S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2010ApJ...717..289S,
+   author = {{Steidel}, C.~C. and {Erb}, D.~K. and {Shapley}, A.~E. and {Pettini}, M. and 
+	{Reddy}, N. and {Bogosavljevi{\'c}}, M. and {Rudie}, G.~C. and 
+	{Rakic}, O.},
+    title = "{The Structure and Kinematics of the Circumgalactic Medium from Far-ultraviolet Spectra of z \~{}= 2-3 Galaxies}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1003.0679},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, galaxies: evolution, galaxies: high-redshift},
+     year = 2010,
+    month = jul,
+   volume = 717,
+    pages = {289-322},
+      doi = {10.1088/0004-637X/717/1/289},
+   adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...717..289S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2011ApJ...726...38Z,
+   author = {{Zheng}, Z. and {Cen}, R. and {Trac}, H. and {Miralda-Escud{\'e}}, J.
+	},
+    title = "{Radiative Transfer Modeling of Ly{$\alpha$} Emitters. II. New Effects on Galaxy Clustering}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1003.4990},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, galaxies: halos, galaxies: high-redshift, galaxies: statistics, intergalactic medium, large-scale structure of universe, radiative transfer, scattering},
+     year = 2011,
+    month = jan,
+   volume = 726,
+      eid = {38},
+    pages = {38},
+      doi = {10.1088/0004-637X/726/1/38},
+   adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...726...38Z},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013arXiv1303.5076P,
+   author = {{Planck Collaboration} and {Ade}, P.~A.~R. and {Aghanim}, N. and 
+	{Armitage-Caplan}, C. and {Arnaud}, M. and {Ashdown}, M. and 
+	{Atrio-Barandela}, F. and {Aumont}, J. and {Baccigalupi}, C. and 
+	{Banday}, A.~J. and et al.},
+    title = "{Planck 2013 results. XVI. Cosmological parameters}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1303.5076},
+ primaryClass = "astro-ph.CO",
+ keywords = {Astrophysics - Cosmology and Extragalactic Astrophysics},
+     year = 2013,
+    month = mar,
+   adsurl = {http://adsabs.harvard.edu/abs/2013arXiv1303.5076P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998ApJ...501...15M,
+   author = {{Miralda-Escude}, J.},
+    title = "{Reionization of the Intergalactic Medium and the Damping Wing of the Gunn-Peterson Trough}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/9708253},
+ keywords = {COSMOLOGY: THEORY, COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, GALAXIES: INTERGALACTIC MEDIUM},
+     year = 1998,
+    month = jul,
+   volume = 501,
+    pages = {15},
+      doi = {10.1086/305799},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...501...15M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}

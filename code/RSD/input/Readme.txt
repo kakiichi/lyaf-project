@@ -1,0 +1,29 @@
+param_01
+fiducial
+
+param_02
+low photoionization effect
+
+param_03
+high photoionization effect
+
+param_04
+low inflow
+
+param_05
+high inflow
+
+param_06
+low outflow
+
+param_07
+moderate outflow
+
+param_08
+high outflow
+
+param_09
+low velocity dispersion
+param_10
+high velocity dispersion
+

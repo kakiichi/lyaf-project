@@ -1,5 +1,5 @@
 set ter postscript enhanced color
-set output "RSD.eps"
+set output "RSD_02.eps"
 
 set size square 0.8,0.8
 set pm3d map
@@ -35,4 +35,4 @@ do for [i=1:20] {
 set style increment userstyle
 #set termoption solid
 
-splot 'RSD.dat' u 1:2:3 
+splot 'RSD_02.out' u 3:4:5
