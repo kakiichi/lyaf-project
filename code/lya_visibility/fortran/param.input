@@ -1,0 +1,3 @@
+3.32   # cMpc/h correlation length
+1.74   # slope of correlation function
+1      # 0 switch off and 1 switch on the local source effect 
