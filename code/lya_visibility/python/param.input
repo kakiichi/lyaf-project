@@ -1,0 +1,21 @@
+# cosmological parameters
+0.72  	       # h
+0.73  	       # om_v0
+0.27  	       # om_m0
+0.044 	       # om_b0
+
+3.0   		# redshift
+
+# astrophysical parameters
+1 		# correlation function switch
+3.32 		# [cMpc/h] correlation length
+1.74 		# slope of corr. function
+1 		# local source effect switch
+0.32     	# cMpc/h, local-global UV background equality radius
+2.0   		# CDDF slope
+200.0    	# km/s
+200.0    	# km/s
+0       	# outflow switch
+0.0		# km/s
+0.0		# km/s
+1               # 0 for Hubble only 1 for Gaussian velocity PDF

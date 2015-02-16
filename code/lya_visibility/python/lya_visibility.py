@@ -184,7 +184,7 @@ for i in range(N):
     f[i,4,3]=g_v12(v[i],'Gaussian',xi_on,r0,slope,phr_on,req,betaN,v0,s0,outflow_on,v_out,r_out)
 
 # plot
-figure()
+figure(figsize=(10,10))
 plt.rc('font',**{'family':'serif', 'size':13})
 plt.rc('xtick', labelsize=13)
 plt.rc('ytick', labelsize=13)
@@ -281,7 +281,7 @@ text(1400,0.3,'$v_{infl}(N_{HI}=10^{21}cm^2)$',rotation=90)
 
 lg=plt.legend(loc='upper right',fontsize=13)
 
-
+plt.tight_layout()
 
 #semilogy(v,0.5*(1+scipy.special.erf( v/(sqrt(2.)*s0) )), 'k--')
 
