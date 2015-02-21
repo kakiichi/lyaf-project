@@ -1,0 +1,42 @@
+# ! /usr/bin/tcsh
+
+# DLA regime
+python tau_eff_v1.0.py output/f_v12_00.out output/tau_eff_DLA_00.output DLA > log/tau_eff_DLA_00.log &
+python tau_eff_v1.0.py output/f_v12_01.out output/tau_eff_DLA_01.output DLA > log/tau_eff_DLA_01.log &
+python tau_eff_v1.0.py output/f_v12_02.out output/tau_eff_DLA_02.output DLA > log/tau_eff_DLA_02.log &
+python tau_eff_v1.0.py output/f_v12_03.out output/tau_eff_DLA_03.output DLA > log/tau_eff_DLA_03.log &
+python tau_eff_v1.0.py output/f_v12_04.out output/tau_eff_DLA_04.output DLA > log/tau_eff_DLA_04.log &
+python tau_eff_v1.0.py output/f_v12_05.out output/tau_eff_DLA_05.output DLA > log/tau_eff_DLA_05.log &
+python tau_eff_v1.0.py output/f_v12_06.out output/tau_eff_DLA_06.output DLA > log/tau_eff_DLA_06.log &
+python tau_eff_v1.0.py output/f_v12_07.out output/tau_eff_DLA_07.output DLA > log/tau_eff_DLA_07.log &
+python tau_eff_v1.0.py output/f_v12_08.out output/tau_eff_DLA_08.output DLA > log/tau_eff_DLA_08.log &
+python tau_eff_v1.0.py output/f_v12_09.out output/tau_eff_DLA_09.output DLA > log/tau_eff_DLA_09.log &
+python tau_eff_v1.0.py output/f_v12_10.out output/tau_eff_DLA_10.output DLA > log/tau_eff_DLA_10.log &
+
+
+# LLS regime
+python tau_eff_v1.0.py output/f_v12_00.out output/tau_eff_LLS_00.output LLS > log/tau_eff_LLS_00.log &
+python tau_eff_v1.0.py output/f_v12_01.out output/tau_eff_LLS_01.output LLS > log/tau_eff_LLS_01.log &
+python tau_eff_v1.0.py output/f_v12_02.out output/tau_eff_LLS_02.output LLS > log/tau_eff_LLS_02.log &
+python tau_eff_v1.0.py output/f_v12_03.out output/tau_eff_LLS_03.output LLS > log/tau_eff_LLS_03.log &
+python tau_eff_v1.0.py output/f_v12_04.out output/tau_eff_LLS_04.output LLS > log/tau_eff_LLS_04.log &
+python tau_eff_v1.0.py output/f_v12_05.out output/tau_eff_LLS_05.output LLS > log/tau_eff_LLS_05.log &
+python tau_eff_v1.0.py output/f_v12_06.out output/tau_eff_LLS_06.output LLS > log/tau_eff_LLS_06.log &
+python tau_eff_v1.0.py output/f_v12_07.out output/tau_eff_LLS_07.output LLS > log/tau_eff_LLS_07.log &
+python tau_eff_v1.0.py output/f_v12_08.out output/tau_eff_LLS_08.output LLS > log/tau_eff_LLS_08.log &
+python tau_eff_v1.0.py output/f_v12_09.out output/tau_eff_LLS_09.output LLS > log/tau_eff_LLS_09.log &
+python tau_eff_v1.0.py output/f_v12_10.out output/tau_eff_LLS_10.output LLS > log/tau_eff_LLS_10.log &
+
+# lya forest regime
+python tau_eff_v1.0.py output/f_v12_00.out output/tau_eff_LAF_00.output LAF > log/tau_eff_LAF_00.log &
+python tau_eff_v1.0.py output/f_v12_01.out output/tau_eff_LAF_01.output LAF > log/tau_eff_LAF_01.log &
+python tau_eff_v1.0.py output/f_v12_02.out output/tau_eff_LAF_02.output LAF > log/tau_eff_LAF_02.log &
+python tau_eff_v1.0.py output/f_v12_03.out output/tau_eff_LAF_03.output LAF > log/tau_eff_LAF_03.log &
+python tau_eff_v1.0.py output/f_v12_04.out output/tau_eff_LAF_04.output LAF > log/tau_eff_LAF_04.log &
+python tau_eff_v1.0.py output/f_v12_05.out output/tau_eff_LAF_05.output LAF > log/tau_eff_LAF_05.log &
+python tau_eff_v1.0.py output/f_v12_06.out output/tau_eff_LAF_06.output LAF > log/tau_eff_LAF_06.log &
+python tau_eff_v1.0.py output/f_v12_07.out output/tau_eff_LAF_07.output LAF > log/tau_eff_LAF_07.log &
+python tau_eff_v1.0.py output/f_v12_08.out output/tau_eff_LAF_08.output LAF > log/tau_eff_LAF_08.log &
+python tau_eff_v1.0.py output/f_v12_09.out output/tau_eff_LAF_09.output LAF > log/tau_eff_LAF_09.log &
+python tau_eff_v1.0.py output/f_v12_10.out output/tau_eff_LAF_10.output LAF > log/tau_eff_LAF_10.log &
+

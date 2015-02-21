@@ -1,0 +1,17 @@
+tau_LAF_data=range(nfiles)
+tau_LLS_data=range(nfiles)
+tau_DLA_data=range(nfiles)
+
+for n in range(nfiles):
+    ID=str(n)
+    infile='../tau_eff_LAF_'+str(n+1).zfill(2)+'.output'
+    tau_LAF_data[n]=genfromtxt(infile,comments='#')
+    infile='../tau_eff_LLS_'+str(n+1).zfill(2)+'.output'
+    tau_LLS_data[n]=genfromtxt(infile,comments='#')
+    infile='../tau_eff_DLA_'+str(n+1).zfill(2)+'.output'
+    tau_DLA_data[n]=genfromtxt(infile,comments='#')
+
+
+tau=range(nfiles)
+for n in range(nfiles):
+    tau[n]=exp(-tau_LAF_data[n][:,3]-tau_LLS_data[n][:,3]-tau_DLA_data[n][:,3])

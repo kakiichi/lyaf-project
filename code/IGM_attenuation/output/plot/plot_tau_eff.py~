@@ -1,0 +1,82 @@
+
+nfiles=10
+tau_LAF_data=range(nfiles)
+tau_LLS_data=range(nfiles)
+tau_DLA_data=range(nfiles)
+
+for n in range(nfiles):
+    ID=str(n)
+    infile='../tau_eff_LAF_'+str(n+1).zfill(2)+'.output'
+    tau_LAF_data[n]=genfromtxt(infile,comments='#')
+    infile='../tau_eff_LLS_'+str(n+1).zfill(2)+'.output'
+    tau_LLS_data[n]=genfromtxt(infile,comments='#')
+    infile='../tau_eff_DLA_'+str(n+1).zfill(2)+'.output'
+    tau_DLA_data[n]=genfromtxt(infile,comments='#')
+
+
+tau=range(nfiles)
+for n in range(nfiles):
+    tau[n]=exp(-tau_LAF_data[n][:,3]-tau_LLS_data[n][:,3]-tau_DLA_data[n][:,3])
+
+figure()
+for n in range(nfiles):
+    subplot(nfiles,1,n+1)
+    plot(tau_LAF_data[n][:,2],tau_LAF_data[n][:,4],'r-')
+    plot(tau_LLS_data[n][:,2],tau_LLS_data[n][:,4],'g-')
+    plot(tau_DLA_data[n][:,2],tau_DLA_data[n][:,4],'b-')
+
+
+# plot
+figure(figsize=(12,7))
+plt.rc('font',**{'family':'serif','size':15})
+plt.rc('xtick',labelsize=15)
+plt.rc('ytick',labelsize=15)
+plt.rc('legend',fontsize=15)
+lw=2
+
+subplot(2,2,1)
+ylim(0,1)
+xlim(-1400,1000)
+xlabel('$\\Delta v$ $[km/s]$',fontsize=18)
+ylabel('$e^{-\\tau_{eff}}$',fontsize=18)
+plot(tau_LAF_data[0][:,2],tau[0],'k-',linewidth=lw,label='$r_{eq}=0.32h^{-1}cMpc$')
+plot(tau_LAF_data[1][:,2],tau[1],'k--',linewidth=lw,label='$r_{eq}=0.10h^{-1}cMpc$')
+plot(tau_LAF_data[2][:,2],tau[2],'k-.',linewidth=lw,label='$r_{eq}=1.01h^{-1}cMpc$')
+lg=plt.legend(loc='lower left')
+lg.draw_frame(False)
+
+subplot(2,2,2)
+ylim(0,1)
+xlim(-1400,1000)
+xlabel('$\\Delta v$ $[km/s]$',fontsize=18)
+ylabel('$e^{-\\tau_{eff}}$',fontsize=18)
+plot(tau_LAF_data[0][:,2],tau[0],'r-',linewidth=lw,label='$v_{in}=143km/s$')
+plot(tau_LAF_data[3][:,2],tau[3],'r--',linewidth=lw,label='$v_{in}=100km/s$')
+plot(tau_LAF_data[4][:,2],tau[4],'r-.',linewidth=lw,label='$v_{in}=200km/s$')
+lg=plt.legend(loc='lower left')
+lg.draw_frame(False)
+
+subplot(2,2,3)
+ylim(0,1)
+xlim(-1400,1000)
+xlabel('$\\Delta v$ $[km/s]$',fontsize=18)
+ylabel('$e^{-\\tau_{eff}}$',fontsize=18)
+plot(tau_LAF_data[0][:,2],tau[0],'b-',linewidth=lw,label='$\\sigma_{12}=200km/s$')
+plot(tau_LAF_data[8][:,2],tau[8],'b--',linewidth=lw,label='$\\sigma_{12}=180km/s$')
+plot(tau_LAF_data[9][:,2],tau[9],'b-.',linewidth=lw,label='$\\sigma_{12}=220km/s$')
+lg=plt.legend(loc='lower left')
+lg.draw_frame(False)
+
+subplot(2,2,4)
+ylim(0,1)
+xlim(-1400,1000)
+xlabel('$\\Delta v$ $[km/s]$',fontsize=18)
+ylabel('$e^{-\\tau_{eff}}$',fontsize=18)
+plot(tau_LAF_data[0][:,2],tau[0],'g-',linewidth=lw,label='$v_{out}=0km/s$')
+plot(tau_LAF_data[5][:,2],tau[5],'g--',linewidth=lw,label='$v_{in}=200km/s$')
+plot(tau_LAF_data[6][:,2],tau[6],'g-.',linewidth=lw,label='$v_{in}=400km/s$')
+plot(tau_LAF_data[7][:,2],tau[7],'g:',linewidth=lw,label='$v_{in}=600km/s$')
+lg=plt.legend(loc='lower left')
+lg.draw_frame(False)
+
+plt.tight_layout()
